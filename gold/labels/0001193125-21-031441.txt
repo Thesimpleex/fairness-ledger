@@ -1,0 +1,12 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|115.00|115.00|-|-|-|-|-|right to receive $115.00 in cash#1
+discount_rate|8.5|8.5|Goldman Sachs|pvfp|T|-|2020-12-31|an illustrative discount rate of 8.5%#1
+value_per_share|75.14|118.76|Goldman Sachs|pvfp|T|-|-|$75.14 to $118.76
+discount_rate|8.5|8.5|Goldman Sachs|pvfp|T|-|2020-12-31|an illustrative discount rate of 8.5%#2
+value_per_share|77.59|122.58|Goldman Sachs|pvfp|T|-|-|$77.59 to $122.58
+discount_rate|8.0|9.0|Goldman Sachs|dcf|T|-|2020-12-31|discount rates ranging from 8.0% to 9.0%
+terminal_growth|2.75|3.75|Goldman Sachs|dcf|T|-|-|perpetuity growth rates ranging from 2.75% to 3.75%
+implied_multiple|11.3|16.5|Goldman Sachs|dcf|T|EBITDA|-|exit terminal year EBITDA multiples ranging from 11.3x to 16.5x
+fee_total|56|56|Goldman Sachs|-|-|-|-|at approximately $56,000,000#1
+fee_total|56|56|Goldman Sachs|-|-|-|-|at approximately $56,000,000#2
+value_per_share|88.54|123.09|Goldman Sachs|dcf|T|-|-|$88.54 to $123.09

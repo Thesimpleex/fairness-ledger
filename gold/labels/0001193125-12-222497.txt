@@ -1,0 +1,14 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|65.00|65.00|-|-|-|-|-|entitled to receive $65.00 in cash
+discount_rate|6.00|6.50|Lazard|dcf|T|-|-|applied discount rates ranging from 6.00% to 6.50%
+exit_multiple|8.00|8.50|Lazard|dcf|T|EBITDA|-|exit EBITDA multiples ranging from 8.00x to 8.50x
+exit_multiple|15.00|17.00|Lazard|dcf|T|P/E|-|exit P/E multiples, ranging from 15.00x to 17.00x
+discount_rate|6.00|6.50|Lazard|dcf|T|-|-|applying discount rates ranging from 6.00% to 6.50%
+exit_multiple|14.50|16.75|Lazard|dcf|T|P/E|-|exit P/E multiple range of 14.50x to 16.75x
+discount_rate|6.75|7.75|Lazard|dcf|T|-|-|applying discount rates ranging from 6.75% to 7.75%
+exit_multiple|5.00|6.00|Lazard|dcf|T|EBITDA|-|exit EBITDA multiple range of 5.00x to 6.00x
+discount_rate|9.00|10.00|Lazard|ddm|T|-|-|an equity discount rate range of 9.00% to 10.00%#1
+discount_rate|9.00|10.00|Lazard|ddm|T|-|-|an equity discount rate range of 9.00% to 10.00%#2
+terminal_growth|1.50|3.00|Lazard|ddm|T|-|-|a dividend growth rate range of 1.50% to 3.00%
+exit_multiple|8.0|9.0|Lazard|other|T|EBITDA|-|exit EBITDA multiples ranging from 8.0x to 9.0x
+fee_total|6.185|6.185|Lazard|-|-|-|-|a fee equal to $6,185,000

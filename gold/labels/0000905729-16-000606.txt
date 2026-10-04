@@ -1,0 +1,23 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+exit_multiple|11.0|16.0|Sandler O'Neill|ddm|A|P/E|-|multiples ranging from 11.0x to 16.0x#1
+discount_rate|8.0|12.0|Sandler O'Neill|ddm|A|-|-|different discount rates ranging from 8.0% to 12.0%
+discount_rate|8.0|12.0|Sandler O'Neill|ddm|A|-|-|8.0% to 12.0% when applied to multiples of December 31, 2020 tangible book value
+exit_multiple|11.0|16.0|Sandler O'Neill|ddm|A|P/E|-|multiples range of 11.0x to 16.0x#1
+discount_rate|8.86|8.86|Sandler O'Neill|ddm|A|-|-|a discount rate of 8.86%
+exit_multiple|11.0|16.0|Sandler O'Neill|ddm|T|P/E|-|multiples ranging from 11.0x to 16.0x#2
+discount_rate|9.0|13.0|Sandler O'Neill|ddm|T|-|-|different discount rates ranging from 9.0% to 13.0%
+discount_rate|9.0|13.0|Sandler O'Neill|ddm|T|-|-|9.0% to 13.0% when applied to multiples of December 31, 2020 tangible book value
+exit_multiple|11.0|16.0|Sandler O'Neill|ddm|T|P/E|-|multiples range of 11.0x to 16.0x#2
+discount_rate|12.00|12.00|Sandler O'Neill|ddm|T|-|-|a discount rate of 12.00%
+value_per_share|26.28|43.06|Sandler O'Neill|ddm|A|-|-|$26.28 to $43.06
+value_per_share|24.52|38.66|Sandler O'Neill|ddm|A|-|-|$24.52 to $38.66
+value_per_share|11.57|19.32|Sandler O'Neill|ddm|T|-|-|$11.57 to $19.32
+value_per_share|12.66|20.45|Sandler O'Neill|ddm|T|-|-|$12.66 to $20.45
+fee_opinion|0.5|0.5|Sandler O'Neill|-|-|-|-|an amount equal to $500,000 as a result of rendering its opinion
+discount_rate|8.0|12.0|KBW|ddm|T|-|-|assumed discount rates ranging from 8.0% to 12.0%#1
+exit_multiple|11.0|15.0|KBW|ddm|T|P/E|-|a range of 11.0x to 15.0x estimated 2022 earnings#1
+value_per_share|13.22|21.10|KBW|ddm|T|-|-|$13.22 per share to $21.10 per share
+discount_rate|8.0|12.0|KBW|ddm|P|-|-|assumed discount rates ranging from 8.0% to 12.0%#2
+exit_multiple|11.0|15.0|KBW|ddm|P|P/E|-|a range of 11.0x to 15.0x estimated 2022 earnings#2
+value_per_share|15.64|23.74|KBW|ddm|P|-|-|$15.64 per share to $23.74 per share
+fee_opinion|2.0|2.0|KBW|-|-|-|-|$2,000,000 of which became payable to KBW with the rendering of its opinion

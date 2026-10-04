@@ -1,0 +1,6 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+terminal_growth|-0.5|0.5|J.P. Morgan|dcf|U|-|-|perpetual growth rates ranging from (0.5)% to 0.5%
+discount_rate|10.75|11.75|J.P. Morgan|dcf|A|-|2023-12-31|discount rates ranging from 10.75% to 11.75%
+discount_rate|9.5|10.50|J.P. Morgan|dcf|T|-|-|9.5% to 10.50%
+fee_total|9|9|J.P. Morgan|-|-|-|-|a fee of $9 million
+fee_opinion|2|2|J.P. Morgan|-|-|-|-|$2 million of which became payable to J.P. Morgan at the time J.P. Morgan delivered its opinion

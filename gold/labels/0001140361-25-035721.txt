@@ -1,0 +1,8 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|20.00|20.00|-|-|-|-|-|$20.00 per share in cash#1
+discount_rate|11.0|13.0|Centerview|dcf|T|-|2025-06-30|discount rates ranging from 11.0% to 13.0%
+exit_multiple|10.5|15.5|Centerview|dcf|T|EBITDA|-|ranging from 10.5x to 15.5x
+value_per_share|13.25|22.50|Centerview|dcf|T|-|-|$13.25 to $22.50
+fee_total|29.4|29.4|Centerview|-|-|-|-|an aggregate fee of $29.4 million
+fee_opinion|3.0|3.0|Centerview|-|-|-|-|$3.0 million of which was payable upon the rendering of Centerview's opinion
+fee_contingent|26.4|26.4|Centerview|-|-|-|-|$26.4 million of which is payable contingent upon consummation of the Transactions

@@ -1,0 +1,6 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+exit_multiple|7.5|8.5|Citi|dcf|T|EBITDA|-|a selected range of Adjusted EBITDA multiples of 7.5x to 8.5x
+discount_rate|8.6|9.4|Citi|dcf|T|-|2025-03-31|a selected range of discount rates of 8.6% to 9.4%
+discount_rate|10.3|10.3|Citi|pvfp|T|-|-|a discount rate of 10.3%
+fee_total|20.0|20.0|Citi|-|-|-|-|an aggregate fee of up to $20.0 million
+fee_contingent|18.0|18.0|Citi|-|-|-|-|up to $18.0 million is payable contingent upon consummation of the Mergers

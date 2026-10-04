@@ -1,0 +1,9 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|18.00|18.00|-|-|-|-|-|$18.00 in cash#1
+discount_rate|14.8|14.8|Morgan Stanley|pvfp|T|-|2022-06-30|a discount rate of 14.8%#1
+terminal_growth|3.0|4.0|Morgan Stanley|dcf|T|-|-|a perpetual growth rate ranging from 3.0% to 4.0%
+discount_rate|12.9|14.0|Morgan Stanley|dcf|T|-|2022-06-30|a discount rate ranging from 12.9% to 14.0%
+discount_rate|14.8|14.8|Morgan Stanley|pvfp|T|-|-|a discount rate of 14.8%#2
+value_per_share|7.75|14.75|Morgan Stanley|pvfp|T|-|-|$7.75 to $14.75
+fee_total|49|49|Morgan Stanley|-|-|-|-|a fee of approximately $49 million
+fee_opinion|4|4|Morgan Stanley|-|-|-|-|$4 million of which was paid following delivery of the opinion

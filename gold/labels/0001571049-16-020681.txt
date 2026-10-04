@@ -1,0 +1,9 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|110.00|110.00|-|-|-|-|-|entitled to receive, at the holder's election, $110.00 in cash#1
+exit_multiple|7.5|8.5|BofA Securities|dcf|T|EBITDA|-|terminal value EBITDA multiples of 7.5x to 8.5x
+discount_rate|7.5|9.5|BofA Securities|dcf|T|-|2016-04-30|discount rates ranging from 7.5% to 9.5%
+exit_multiple|8.0|10.0|BofA Securities|dcf|A|EBITDA|-|terminal value EBITDA multiples of 8.0x to 10.0x
+discount_rate|7.0|9.0|BofA Securities|dcf|A|-|2016-07-02|discount rates ranging from 7.0% to 9.0%
+discount_rate|8.9|8.9|BofA Securities|pvfp|A|-|-|cost of equity of 8.9%
+fee_total|11.5|11.5|BofA Securities|-|-|-|-|an aggregate fee currently estimated to be approximately $11.5 million
+fee_opinion|1|1|BofA Securities|-|-|-|-|$1 million of which was payable in connection with its opinion

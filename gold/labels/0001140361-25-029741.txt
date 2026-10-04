@@ -1,0 +1,8 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|10.25|10.25|-|-|-|-|-|$10.25 in cash#1
+fee_total|11|14|Goldman Sachs|-|-|-|-|approximately $11-14 million#1
+discount_rate|12.0|15.0|Goldman Sachs|dcf|T|-|2025-03-31|discount rates ranging from 12.0% to 15.0%
+terminal_growth|2.0|4.0|Goldman Sachs|dcf|T|-|-|perpetuity growth rates ranging from 2.0% to 4.0%
+discount_rate|13.5|13.5|Goldman Sachs|dcf|T|-|2025-03-31|a discount rate of 13.5%
+discount_rate|13.5|13.5|Goldman Sachs|pvfp|T|-|2025-03-31|an illustrative discount rate of 13.5%
+fee_total|11|14|Goldman Sachs|-|-|-|-|approximately $11-14 million#2

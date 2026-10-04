@@ -1,0 +1,10 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|60.00|60.00|-|-|-|-|-|receive $60.00 in cash
+fee_total|9.0|9.0|Credit Suisse|-|-|-|-|a fee of $9,000,000
+discount_rate|8.0|10.0|KBW|dcf|T|-|-|using discount rates ranging from 8.0% to 10.0%#1
+discount_rate|8.0|10.0|KBW|dcf|T|-|-|using discount rates ranging from 8.0% to 10.0%#2
+exit_multiple|1.00|1.60|KBW|dcf|T|book value|-|1.00x to 1.60x
+exit_multiple|10.0|16.0|KBW|dcf|T|P/E|-|10.0x to 16.0x
+fee_total|1.0|1.0|KBW|-|-|-|-|a cash fee of $1,000,000
+fee_opinion|1.0|1.0|KBW|-|-|-|-|a cash fee of $1,000,000
+value_per_share|26.32|41.85|KBW|dcf|T|-|-|$26.32 to $41.85

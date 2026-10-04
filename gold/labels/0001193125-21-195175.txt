@@ -1,0 +1,10 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+exit_multiple|6.0|7.5|BofA Securities|dcf|T|EBITDA|-|terminal forward multiples of 6.0x to 7.5x#1
+discount_rate|9.50|11.50|BofA Securities|dcf|T|-|2021-03-05|discount rates ranging from 9.50% to 11.50%#1
+exit_multiple|6.0|7.5|BofA Securities|dcf|P|-|-|terminal forward multiples of 6.0x to 7.5x#2
+discount_rate|9.50|11.50|BofA Securities|dcf|T|-|2021-03-05|discount rates ranging from 9.50% to 11.50%#2
+exit_multiple|6.5|8.5|BofA Securities|dcf|A|EBITDA|-|terminal forward multiples of 6.5x to 8.5x
+discount_rate|8.50|10.50|BofA Securities|dcf|A|-|2021-03-05|discount rates ranging from 8.50% to 10.50%
+fee_total|35|35|BofA Securities|-|-|-|-|an aggregate fee of up to $35 million
+fee_opinion|1.5|1.5|BofA Securities|-|-|-|-|$1.5 million was payable in connection with its opinion
+fee_contingent|31.0|31.0|BofA Securities|-|-|-|-|$31.0 million base fee

@@ -1,0 +1,14 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|90.00|90.00|-|-|-|-|-|entitled to receive $90.00 in cash
+fee_contingent|20.3|20.3|Barclays|-|-|-|-|Additional compensation of $20.3 million will be payable on completion of the merger
+fee_opinion|1.0|1.0|Barclays|-|-|-|-|the fee of $1 million paid upon delivery of Barclays' opinion
+fee_total|10|10|Goldman Sachs|-|-|-|-|a transaction fee of $10 million
+fee_opinion|1|1|Goldman Sachs|-|-|-|-|$1 million of which is payable upon the delivery of Goldman Sachs' opinion
+fee_contingent|9|9|Goldman Sachs|-|-|-|-|$9 million of which is contingent upon consummation of the merger
+discount_rate|7.5|7.5|joint|pvfp|T|-|-|using a discount rate of 7.5%
+value_per_share|85.74|108.84|joint|pvfp|T|-|-|$85.74 to $108.84
+discount_rate|6.5|7.5|joint|dcf|T|-|-|using discount rates ranging from 6.5% to 7.5%
+exit_multiple|8.5|10.0|joint|dcf|T|EBITDA|-|terminal EBITDA multiple range of 8.5x to 10.0x
+implied_growth|0.5|2.3|joint|dcf|T|-|-|implied perpetuity growth rates ranging from 0.5% to 2.3%
+value_per_share|83.24|106.41|joint|dcf|T|-|-|$83.24 to $106.41
+fee_opinion|1|1|Barclays|-|-|-|-|Ralcorp paid Barclays $1 million upon the delivery of Barclays' opinion

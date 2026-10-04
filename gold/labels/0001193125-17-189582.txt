@@ -1,0 +1,7 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|315.00|315.00|-|-|-|-|-|entitled to receive $315.00 in cash#1
+discount_rate|7.0|7.0|Morgan Stanley|pvfp|T|-|-|a cost of equity of 7.0%
+discount_rate|7.0|7.0|Morgan Stanley|pvfp|T|-|2017-03-31|assumed cost of equity of 7.0%
+exit_multiple|10.6|13.7|Morgan Stanley|dcf|T|EBITDA|-|terminal LTM EBITDA exit multiple ranging from 10.6x to 13.7x
+discount_rate|5.7|7.5|Morgan Stanley|dcf|T|-|-|a range of discount rates of 5.7% to 7.5%
+fee_total|42|42|Morgan Stanley|-|-|-|-|a total fee of approximately $42 million

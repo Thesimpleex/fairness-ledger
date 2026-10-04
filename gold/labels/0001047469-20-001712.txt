@@ -1,0 +1,11 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|33.00|33.00|-|-|-|-|-|entitled to receive $33.00 in cash#1
+value_per_share|29.74|41.80|Morgan Stanley|dcf|T|-|-|$29.74 to $41.80
+value_per_share|29.92|41.98|Morgan Stanley|dcf|T|-|-|$29.92 to $41.98
+value_per_share|23.48|32.88|Morgan Stanley|dcf|T|-|-|$23.48 to $32.88
+value_per_share|23.66|33.06|Morgan Stanley|dcf|T|-|-|$23.66 to $33.06
+discount_rate|10.8|10.8|Morgan Stanley|pvfp|T|-|-|a discount rate of 10.8 percent
+terminal_growth|2.5|3.5|Morgan Stanley|dcf|T|-|-|perpetual growth rates of 2.5 percent to 3.5 percent
+discount_rate|9.8|11.8|Morgan Stanley|dcf|T|-|2019-12-31|a discount rate ranging from 9.8 percent to 11.8 percent
+fee_total|29.9|29.9|Morgan Stanley|-|-|-|-|a fee of approximately $29.9 million
+fee_opinion|7.5|7.5|Morgan Stanley|-|-|-|-|$7.5 million of which has been paid following delivery of the opinion

@@ -1,0 +1,15 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+exit_multiple|13.0|18.0|Sandler O'Neill|ddm|T|P/E|-|multiples ranging from 13.0x to 18.0x#1
+discount_rate|11.0|15.0|Sandler O'Neill|ddm|T|-|-|different discount rates ranging from 11.0% to 15.0%
+exit_multiple|13.0|18.0|Sandler O'Neill|ddm|T|P/E|-|multiples range of 13.0x to 18.0x#1
+discount_rate|12.68|12.68|Sandler O'Neill|ddm|T|-|-|a discount rate of 12.68%
+exit_multiple|13.0|18.0|Sandler O'Neill|ddm|A|P/E|-|multiples ranging from 13.0x to 18.0x#2
+discount_rate|8.0|12.0|Sandler O'Neill|ddm|A|-|-|different discount rates ranging from 8.0% to 12.0%
+exit_multiple|13.0|18.0|Sandler O'Neill|ddm|A|P/E|-|multiples range of 13.0x to 18.0x#2
+discount_rate|10.85|10.85|Sandler O'Neill|ddm|A|-|-|a discount rate of 10.85%
+fee_opinion|0.25|0.25|Sandler O'Neill|-|-|-|-|a $250,000 fee upon rendering its fairness opinion
+value_per_share|8.34|13.23|Sandler O'Neill|ddm|T|-|-|$8.34 to $13.23
+value_per_share|13.85|22.74|Sandler O'Neill|ddm|T|-|-|$13.85 to $22.74
+value_per_share|65.39|96.74|Sandler O'Neill|ddm|A|-|-|$65.39 to $96.74
+value_per_share|58.00|85.03|Sandler O'Neill|ddm|A|-|-|$58.00 to $85.03
+fee_total|1.2|1.2|Sandler O'Neill|-|-|-|-|transaction fee was estimated to be approximately $1.2 million

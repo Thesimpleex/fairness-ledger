@@ -1,0 +1,37 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+fee_total|12|12|Citi|-|-|-|-|a transaction fee of approximately $12 million#1
+fee_total|12|12|Morgan Stanley|-|-|-|-|a transaction fee of approximately $12 million#1
+fee_total|27|27|Goldman Sachs|-|-|-|-|a transaction fee of $27 million#1
+discount_rate|9.4|9.4|Morgan Stanley|pvfp|A|-|-|estimated costs of equity for Eaton of 9.4% and 9.7%
+discount_rate|9.7|9.7|Citi|pvfp|A|-|-|estimated costs of equity for Eaton of 9.4% and 9.7%
+value_per_share|45|59|joint|pvfp|A|-|-|$45 to $59
+discount_rate|7.6|7.6|Morgan Stanley|pvfp|T|-|-|estimated costs of equity for Cooper of 7.6% and 9.7%
+discount_rate|9.7|9.7|Citi|pvfp|T|-|-|estimated costs of equity for Cooper of 7.6% and 9.7%
+value_per_share|53|70|joint|pvfp|T|-|-|$53 to $70
+exit_multiple|7.5|8.5|joint|dcf|A|EBITDA|-|terminal multiples ranging from 7.5x to 8.5x
+discount_rate|7.75|8.25|Morgan Stanley|dcf|A|-|-|discount rates ranging from 7.75% to 8.25%
+value_per_share|53|61|Morgan Stanley|dcf|A|-|-|$53 to $61
+discount_rate|7.3|9.2|Citi|dcf|A|-|-|discount rates ranging from 7.3% to 9.2%
+value_per_share|53|63|Citi|dcf|A|-|-|$53 to $63
+exit_multiple|10.0|11.0|joint|dcf|T|EBITDA|-|terminal multiples ranging from 10.0x to 11.0x
+discount_rate|6.5|7.0|Morgan Stanley|dcf|T|-|-|discount rates ranging from 6.5% to 7.0%
+discount_rate|7.5|9.5|Citi|dcf|T|-|-|discount rates ranging from 7.5% to 9.5%
+discount_rate|8|8|Morgan Stanley|dcf|P|-|-|an 8% discount rate
+discount_rate|7.5|9.5|Citi|dcf|P|-|-|a 7.5% to 9.5% weighted average cost of capital
+terminal_growth|0|2|Citi|dcf|P|-|-|perpetuity growth ranges of 0% to 2%
+terminal_growth|-1|1|Citi|dcf|P|-|-|(1%) to 1%
+fee_total|12|12|Citi|-|-|-|-|a transaction fee of approximately $12 million#2
+fee_total|12|12|Morgan Stanley|-|-|-|-|a transaction fee of approximately $12 million#2
+discount_rate|9.50|10.50|Goldman Sachs|dcf|T|-|-|discount rates ranging from 9.50% to 10.50%
+terminal_growth|2.00|3.00|Goldman Sachs|dcf|T|-|-|perpetuity growth rates ranging from 2.00% to 3.00%#1
+implied_multiple|8.0|10.5|Goldman Sachs|dcf|T|EBITDA|-|implied a terminal EBITDA multiple range of 8.0x to 10.5x
+discount_rate|10.00|11.00|Goldman Sachs|dcf|A|-|-|discount rates ranging from 10.00% to 11.00%
+terminal_growth|2.00|3.00|Goldman Sachs|dcf|A|-|-|perpetuity growth rates ranging from 2.00% to 3.00%#2
+implied_multiple|5.8|7.5|Goldman Sachs|dcf|A|EBITDA|-|implied a terminal EBITDA multiple range of 5.8x to 7.5x
+discount_rate|10.3|10.3|Goldman Sachs|pvfp|T|-|-|a discount rate of 10.3%
+value_per_share|55.29|65.97|Goldman Sachs|pvfp|T|-|-|$55.29 to $65.97
+discount_rate|12.5|12.5|Goldman Sachs|pvfp|A|-|-|a discount rate of 12.5%
+value_per_share|45.79|63.18|Goldman Sachs|pvfp|A|-|-|$45.79 to $63.18
+discount_rate|11.7|11.7|Goldman Sachs|pvfp|P|-|-|a discount rate of 11.7%
+value_per_share|77.20|91.56|Goldman Sachs|pvfp|P|-|-|$77.20 to $91.56
+fee_total|27|27|Goldman Sachs|-|-|-|-|a transaction fee of $27 million#2

@@ -1,0 +1,11 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+fee_total|1.6905|1.6905|EarlyBirdCapital|-|-|-|-|a fee to EarlyBirdCapital of approximately $1,690,500#1
+fee_total|0.8|0.8|Cowen|-|-|-|-|a fee to Cowen and Company, LLC of at least $800,000#1
+fee_total|0.5|0.5|Morpheus Securities|-|-|-|-|a fee of at least $500,000 to Morpheus Securities LLC#1
+fee_total|1.6905|1.6905|EarlyBirdCapital|-|-|-|-|a fee to EarlyBirdCapital of approximately $1,690,500#2
+fee_total|0.8|0.8|Cowen|-|-|-|-|a fee to Cowen and Company, LLC of at least $800,000#2
+fee_total|0.5|0.5|Morpheus Securities|-|-|-|-|a fee of at least $500,000 to Morpheus Securities LLC#2
+discount_rate|10.0|14.0|SC&H|dcf|T|-|-|discount rates ranging from 10.0% to 14.0%
+exit_multiple|10.0|13.0|SC&H|dcf|T|EBITDA|-|terminal value earnings multiples ranging from 10.0x to 13.0x
+terminal_growth|1.0|3.0|SC&H|dcf|T|-|-|terminal growth factors ranging from 1.0% to 3.0%
+fee_total|0.075|0.075|SC&H|-|-|-|-|a fee of $75,000 in connection with advisory services

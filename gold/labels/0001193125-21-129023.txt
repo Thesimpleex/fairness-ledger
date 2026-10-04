@@ -1,0 +1,29 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+exit_multiple|11.0|13.0|Lazard|ddm|T|P/E|-|terminal forward multiples of 11.0x to 13.0x#1
+discount_rate|10.5|11.5|Lazard|ddm|T|-|-|10.5% to 11.5% cost of equity
+value_per_share|12.64|14.76|Lazard|ddm|T|-|-|$12.64 to $14.76
+value_per_share|17.70|20.77|Lazard|ddm|T|-|-|$17.70 to $20.77
+exit_multiple|11.0|13.0|Lazard|ddm|A|P/E|-|terminal forward multiples of 11.0x to 13.0x#2
+discount_rate|10.0|12.0|Lazard|ddm|A|-|-|10.0% to 12.0% cost of equity
+value_per_share|125.92|151.44|Lazard|ddm|A|-|-|$125.92 to $151.44
+fee_total|20|20|Lazard|-|-|-|-|an aggregate fee for such services of $20 million
+fee_opinion|4|4|Lazard|-|-|-|-|$4 million of which became payable upon the rendering of Lazard's opinion
+discount_rate|10.0|12.0|KBW|ddm|T|-|-|assumed discount rates ranging from 10.0% to 12.0%#1
+exit_multiple|11.0|13.0|KBW|ddm|T|P/E|-|a range of 11.0x to 13.0x to People's United's estimated 2026 earnings
+value_per_share|15.01|17.95|KBW|ddm|T|-|-|$15.01 to $17.95
+discount_rate|10.0|12.0|KBW|ddm|A|-|-|assumed discount rates ranging from 10.0% to 12.0%#2
+exit_multiple|11.0|13.0|KBW|ddm|A|P/E|-|a range of 11.0x to 13.0x to M&T's estimated 2026 earnings
+value_per_share|127.70|153.31|KBW|ddm|A|-|-|$127.70 to $153.31
+discount_rate|10.0|12.0|KBW|ddm|P|-|-|assumed discount rates ranging from 10.0% to 12.0%#3
+exit_multiple|11.0|13.0|KBW|ddm|P|P/E|-|a range of 11.0x to 13.0x to the pro forma combined entity's estimated 2026 earnings
+fee_total|34|34|KBW|-|-|-|-|a total cash fee equal to $34,000,000
+exit_multiple|11.0|13.0|J.P. Morgan|ddm|T|P/E|-|a multiple range of 11.0x to 13.0x#1
+discount_rate|10.5|11.5|J.P. Morgan|ddm|T|-|-|cost of equity range of 10.5%—11.5%#1
+exit_multiple|11.0|13.0|J.P. Morgan|ddm|A|P/E|-|a multiple range of 11.0x to 13.0x#2
+discount_rate|10.5|11.5|J.P. Morgan|ddm|A|-|-|cost of equity range of 10.5%—11.5%#2
+discount_rate|10.5|11.5|J.P. Morgan|ddm|P|-|-|discount rate range of 10.5-11.5%
+exit_multiple|11.0|13.0|J.P. Morgan|ddm|P|-|-|exit multiple range of 11.0x-13.0x
+fee_total|20|20|J.P. Morgan|-|-|-|-|a fee of $20 million
+fee_opinion|3|3|J.P. Morgan|-|-|-|-|$3 million of which became payable upon the delivery of J.P. Morgan's opinion
+value_per_share|14.75|17.00|J.P. Morgan|ddm|T|-|-|$14.75 to $17.00
+value_per_share|126.75|147.25|J.P. Morgan|ddm|A|-|-|$126.75 to $147.25

@@ -1,0 +1,2 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+# No fairness opinion in this SPAC filing; discount rates in the financial statements are out of scope.

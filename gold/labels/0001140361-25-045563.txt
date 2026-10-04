@@ -1,0 +1,7 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|80.70|80.70|-|-|-|-|-|right to receive $80.70 in cash#1
+terminal_growth|2.5|3.5|Jefferies|dcf|T|-|-|a selected range of perpetuity growth rates of 2.5% to 3.5%
+discount_rate|8.5|9.5|Jefferies|dcf|T|-|-|a selected discount rate range of 8.5% to 9.5%
+value_per_share|61.75|88.50|Jefferies|dcf|T|-|-|$61.75 to $88.50
+fee_total|37|37|Jefferies|-|-|-|-|an aggregate fee of approximately $37 million
+fee_opinion|1.5|1.5|Jefferies|-|-|-|-|$1.5 million of which became payable upon the delivery of Jefferies' opinion

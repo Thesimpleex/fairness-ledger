@@ -1,0 +1,3 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+fee_total|0.05|0.05|Sterne Agee|-|-|-|-|a fee of $50,000 upon delivery of the written fairness opinion
+fee_opinion|0.05|0.05|Sterne Agee|-|-|-|-|a fee of $50,000 upon delivery of the written fairness opinion

@@ -1,0 +1,7 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+discount_rate|9.0|10.0|Duff & Phelps|dcf|T|-|-|a range of discount rates of 9.0% to 10.0%
+terminal_growth|3.25|3.25|Duff & Phelps|dcf|T|-|-|a 3.25% terminal growth rate#1
+terminal_growth|3.25|3.25|Duff & Phelps|dcf|T|-|-|a 3.25% terminal growth rate#2
+discount_rate|9.00|10.00|Duff & Phelps|dcf|T|-|-|a weighted average cost of capital range of 9.00% to 10.00%
+fee_total|0.5|0.5|Duff & Phelps|-|-|-|-|a fee of $500,000 for its services
+fee_opinion|0.25|0.25|Duff & Phelps|-|-|-|-|$250,000 of which was paid upon Duff & Phelps' delivery of the opinion

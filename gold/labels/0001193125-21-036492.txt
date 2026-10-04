@@ -1,0 +1,10 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+discount_rate|8|35|Evercore|nav|T|-|-|discount rates ranging from 8% to 35%
+terminal_growth|2.0|3.0|Evercore|dcf|T|-|-|perpetuity growth rate range of 2.0% to 3.0%#1
+exit_multiple|3.5|4.5|Evercore|dcf|T|EBITDA|-|multiples ranging from 3.5x to 4.5x
+discount_rate|11.0|13.0|Evercore|dcf|T|-|2021-01-01|discount rates ranging from 11.0% to 13.0%
+terminal_growth|2.0|3.0|Evercore|dcf|A|-|-|perpetuity growth rate range of 2.0% to 3.0%#2
+exit_multiple|5.5|7.5|Evercore|dcf|A|EBITDA|-|multiples ranging from 5.5x to 7.5x
+discount_rate|7.0|9.0|Evercore|dcf|A|-|2021-01-01|discount rates ranging from 7.0% to 9.0%
+fee_total|25|25|Evercore|-|-|-|-|a fee of up to $25 million
+fee_opinion|2.5|2.5|Evercore|-|-|-|-|a fee of $2.5 million that was paid upon delivery of Evercore's fairness opinion

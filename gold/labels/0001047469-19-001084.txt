@@ -1,0 +1,46 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+fee_total|17|17|BMO|-|-|-|-|an aggregate fee of $17 million, of which $4 million was payable upon delivery of BMOCM's opinion#1
+fee_opinion|4|4|BMO|-|-|-|-|$4 million was payable upon delivery of BMOCM's opinion#1
+fee_total|17|17|Citi|-|-|-|-|$17 million, of which $4 million was payable upon delivery of Citi's opinion
+fee_opinion|4|4|Citi|-|-|-|-|$4 million was payable upon delivery of Citi's opinion#1
+fee_contingent|13|13|Citi|-|-|-|-|$13 million is payable contingent upon consummation of the arrangement
+fee_total|17|17|Goldman Sachs|-|-|-|-|a transaction fee of $17 million#1
+discount_rate|5|5|BMO|nav|T|-|2018-12-31|using a discount rate of 5%, which represents the discount rate commonly used by gold mining sector equity research analysts#1
+discount_rate|5|5|BMO|nav|T|-|-|(calculated using a discount rate of 5%)#1
+discount_rate|5|5|BMO|nav|A|-|2018-12-31|using a discount rate of 5%, which represents the discount rate commonly used by gold mining sector equity research analysts#2
+discount_rate|5|5|BMO|nav|A|-|-|(calculated using a discount rate of 5%)#2
+discount_rate|4.2|4.9|Citi|nav|T|-|2018-12-31|a selected range of real discount rates of 4.2% to 4.9%
+discount_rate|5|5|Citi|nav|T|-|-|real discount rate of 5%#1
+discount_rate|5|5|Citi|nav|T|-|-|real discount rate of 5%#2
+discount_rate|4.6|5.3|Citi|nav|A|-|2018-12-31|a selected range of real discount rates of 4.6% to 5.3%
+discount_rate|5|5|Citi|nav|A|-|-|real discount rate of 5%#3
+value_per_share|24.21|25.84|Citi|nav|A|-|-|$24.21 to $25.84
+discount_rate|5|5|Citi|nav|T|-|-|real discount rate of 5%#4
+discount_rate|5|5|Citi|nav|A|-|-|real discount rate of 5%#5
+fee_total|17|17|Citi|-|-|-|-|$ 17 million, of which $4 million was payable upon delivery of Citi's opinion
+fee_opinion|4|4|Citi|-|-|-|-|$4 million was payable upon delivery of Citi's opinion#2
+fee_contingent|13|13|Citi|-|-|-|-|$ 13 million is payable contingent upon consummation of the arrangement
+discount_rate|5|5|Goldman Sachs|nav|T|-|-|using a discount rate of 5%, reflecting the discount rate commonly used by gold mining sector equity research analysts#1
+discount_rate|4.5|4.5|Goldman Sachs|pvfp|A|-|2018-12-31|an illustrative discount rate of 4.5%
+discount_rate|5.0|5.0|Goldman Sachs|pvfp|P|-|2018-12-31|an illustrative discount rate of 5.0%
+value_per_share|28.98|42.61|Goldman Sachs|pvfp|P|-|-|$28.98 to $42.61
+discount_rate|4.0|5.0|Goldman Sachs|nav|A|-|2018-12-31|discount rates ranging from 4.0% to 5.0%#1
+discount_rate|4.5|5.5|Goldman Sachs|nav|T|-|2018-12-31|discount rates ranging from 4.5% to 5.5%#1
+discount_rate|5|5|Goldman Sachs|nav|T|-|-|using a discount rate of 5%, reflecting the discount rate commonly used by gold mining sector equity research analysts#2
+value_per_share|10.74|14.64|Goldman Sachs|nav|T|-|-|$10.74 to $14.64
+discount_rate|4.0|5.0|Goldman Sachs|dcf|A|-|2018-12-31|discount rates ranging from 4.0% to 5.0%#2
+exit_multiple|6.0|8.0|Goldman Sachs|dcf|A|EBITDA|-|exit terminal year EV/EBITDA multiples ranging from 6.0x to 8.0x#1
+implied_growth|-5.4|-2.3|Goldman Sachs|dcf|A|-|-|implied perpetuity growth rates ranging from (5.4)% to (2.3)%
+value_per_share|29.94|39.18|Goldman Sachs|dcf|A|-|-|$29.94 to $39.18
+discount_rate|4.5|5.5|Goldman Sachs|dcf|T|-|2018-12-31|discount rates ranging from 4.5% to 5.5%#2
+exit_multiple|6.0|8.0|Goldman Sachs|dcf|T|EBITDA|-|exit terminal year EV/EBITDA multiples ranging from 6.0x to 8.0x#2
+implied_growth|-2.6|0.0|Goldman Sachs|dcf|T|-|-|implied perpetuity growth rates ranging from (2.6)% to 0.0%
+value_per_share|11.45|15.34|Goldman Sachs|dcf|T|-|-|$11.45 to $15.34
+discount_rate|4.0|5.0|Goldman Sachs|dcf|P|-|2018-12-31|discount rates ranging from 4.0% to 5.0%#3
+exit_multiple|6.0|8.0|Goldman Sachs|dcf|P|EBITDA|-|exit terminal year EV/EBITDA multiples ranging from 6.0x to 8.0x#3
+implied_growth|-4.5|-1.6|Goldman Sachs|dcf|P|-|-|implied perpetuity growth rates ranging from (4.5)% to (1.6)%
+value_per_share|42.86|53.90|Goldman Sachs|dcf|P|-|-|$42.86 to $53.90
+exit_multiple|7.0|7.0|Goldman Sachs|dcf|U|EBITDA|-|an exit terminal year EV/EBITDA multiple of 7.0x
+fee_total|17|17|Goldman Sachs|-|-|-|-|a transaction fee of $17 million#2
+fee_total|17|17|BMO|-|-|-|-|an aggregate fee of $17 million, of which $4 million was payable upon delivery of BMOCM's opinion#2
+fee_opinion|4|4|BMO|-|-|-|-|$4 million was payable upon delivery of BMOCM's opinion#2

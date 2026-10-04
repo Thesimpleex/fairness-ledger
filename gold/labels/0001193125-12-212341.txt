@@ -1,0 +1,8 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|10.80|10.80|-|-|-|-|-|entitled to receive $10.80 in cash#1
+fee_total|2.225|2.225|Morgan Stanley|-|-|-|-|a fee in the amount of approximately $2,225,000
+exit_multiple|5.0|7.0|Morgan Stanley|dcf|T|EBITDA|-|exit multiples ranging from 5.0 to 7.0
+discount_rate|8.4|10.4|Morgan Stanley|dcf|T|-|-|discount rates ranging from 8.4% to 10.4%
+discount_rate|9.4|9.4|Morgan Stanley|dcf|T|-|-|a discount rate of 9.4%
+value_per_share|10.35|14.58|Morgan Stanley|dcf|T|-|-|$10.35 to $14.58
+fee_total|2.25|2.25|Morgan Stanley|-|-|-|-|an aggregate fee of approximately $2,250,000

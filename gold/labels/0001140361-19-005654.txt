@@ -1,0 +1,11 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|331.50|331.50|-|-|-|-|-|right to receive $331.50 per share in cash
+discount_rate|8.00|9.00|Goldman Sachs|dcf|T|-|2018-12-31|discount rates ranging from 8.00% to 9.00%
+terminal_growth|3.5|4.5|Goldman Sachs|dcf|T|-|-|perpetuity growth rates ranging from 3.5% to 4.5%
+implied_multiple|14.3|22.6|Goldman Sachs|dcf|T|FCF|-|implied exit terminal year unlevered free cash flow multiples ranging from 14.3x to 22.6x
+discount_rate|8.3|8.3|Goldman Sachs|pvfp|T|-|2018-12-31|an illustrative discount rate of 8.3%#1
+value_per_share|226|350|Goldman Sachs|pvfp|T|-|-|$226 to $350
+discount_rate|8.3|8.3|Goldman Sachs|pvfp|T|-|2018-12-31|an illustrative discount rate of 8.3%#2
+value_per_share|267|375|Goldman Sachs|pvfp|T|-|-|$267 to $375
+fee_total|71.7|71.7|Goldman Sachs|-|-|-|-|estimated to be approximately $71.7 million
+value_per_share|232|365|Goldman Sachs|dcf|T|-|-|$232 to $365

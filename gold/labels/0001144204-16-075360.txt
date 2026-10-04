@@ -1,0 +1,19 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+exit_multiple|14.0|19.0|Sandler O'Neill|ddm|T|P/E|-|multiples ranging from 14.0x to 19.0x
+discount_rate|10.0|14.0|Sandler O'Neill|ddm|T|-|-|different discount rates ranging from 10.0% to 14.0%#1
+discount_rate|13.94|13.94|Sandler O'Neill|ddm|T|-|-|a discount rate of 13.94%
+exit_multiple|14.0|19.0|Sandler O'Neill|ddm|T|P/E|-|earnings multiples range of 14.0x to 19.0x
+exit_multiple|13.0|21.0|Sandler O'Neill|ddm|A|P/E|-|multiples ranging from 13.0x to 21.0x
+discount_rate|9.0|13.0|Sandler O'Neill|ddm|A|-|-|different discount rates ranging from 9.0% to 13.0%
+exit_multiple|13.0|21.0|Sandler O'Neill|ddm|A|P/E|-|earnings multiples range of 13.0x to 21.0x
+discount_rate|12.18|12.18|Sandler O'Neill|ddm|A|-|-|a discount rate of 12.18%
+fee_opinion|0.5|0.5|Sandler O'Neill|-|-|-|-|a fee of $500,000 from NewBridge as a result of rendering its opinion
+discount_rate|9.0|13.0|KBW|dcf|T|-|-|KBW assumed discount rates ranging from 9.0% to 13.0%
+exit_multiple|12.0|16.0|KBW|dcf|T|P/E|-|a range of 12.0x to 16.0x estimated 2021 net income
+value_per_share|13.31|19.42|KBW|dcf|T|-|-|$13.31 per share to $19.42 per share
+fee_total|2.5|2.5|KBW|-|-|-|-|a non-refundable cash fee equal to $2,500,000
+fee_opinion|0.3|0.3|KBW|-|-|-|-|$300,000 of which became payable concurrently with the rendering of KBW's opinion
+value_per_share|7.61|11.61|Sandler O'Neill|ddm|T|-|-|$7.61 to $11.61
+value_per_share|5.38|11.95|Sandler O'Neill|ddm|T|-|-|$5.38 to $11.95
+value_per_share|18.24|32.61|Sandler O'Neill|ddm|A|-|-|$18.24 to $32.61
+value_per_share|16.96|34.59|Sandler O'Neill|ddm|A|-|-|$16.96 to $34.59

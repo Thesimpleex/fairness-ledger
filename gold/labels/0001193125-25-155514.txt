@@ -1,0 +1,4 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+discount_rate|18.0|18.0|Marshall & Stevens|dcf|T|-|-|The WACC was calculated to be approximately 18.0%
+discount_rate|18.0|18.0|Marshall & Stevens|dcf|T|-|-|a WACC of 18.0%
+terminal_growth|4.0|4.0|Marshall & Stevens|dcf|T|-|-|terminal growth rate of 4.0%

@@ -1,0 +1,8 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|50.00|50.00|-|-|-|-|-|right to receive $50.00 in cash#1
+terminal_growth|0.0|1.0|J.P. Morgan|dcf|T|-|-|a perpetual growth rate ranging from 0.0% to 1.0%
+discount_rate|8.5|9.5|J.P. Morgan|dcf|T|-|-|a range of discount rates from 8.5% to 9.5%
+discount_rate|8.5|9.5|J.P. Morgan|dcf|T|-|-|a discount rate of 8.5% to 9.5%
+value_per_share|42.75|52.00|J.P. Morgan|dcf|T|-|-|$42.75 and $52.00
+fee_total|21|21|J.P. Morgan|-|-|-|-|a transaction fee of approximately $21 million
+fee_opinion|5|5|J.P. Morgan|-|-|-|-|$5 million was payable upon delivery of J.P. Morgan's opinion

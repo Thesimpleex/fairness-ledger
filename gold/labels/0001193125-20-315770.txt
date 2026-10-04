@@ -1,0 +1,24 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+exit_multiple|11.0|13.0|Raymond James|dcf|U|P/E|-|multiples, ranging from 11.0x to 13.0x
+discount_rate|12.50|15.50|Raymond James|dcf|U|-|-|discount rates ranging from 12.50% to 15.50%#1
+discount_rate|12.50|15.50|Raymond James|dcf|P|-|-|discount rates ranging from 12.50% to 15.50%#2
+exit_multiple|11.0|13.0|Raymond James|dcf|P|P/E|-|a range of 11.0x to 13.0x the pro forma combined entity's estimated 2025 earnings
+fee_total|1.25|1.25|Raymond James|-|-|-|-|a fee for advisory services in connection with the merger equal to $1,250,000
+fee_opinion|0.15|0.15|Raymond James|-|-|-|-|a fee of $150,000 paid when Raymond James delivered its opinion
+fee_contingent|0.55|0.55|Raymond James|-|-|-|-|$550,000 is contingent upon the closing of the merger
+exit_multiple|8.0|13.0|Piper Sandler|ddm|T|P/E|-|multiples ranging from 8.0x to 13.0x#1
+discount_rate|9.0|15.0|Piper Sandler|ddm|T|-|-|different discount rates ranging from 9.0% to 15.0%#1
+exit_multiple|8.0|13.0|Piper Sandler|ddm|T|P/E|-|multiples range of 8.0x to 13.0x#1
+discount_rate|12.24|12.24|Piper Sandler|ddm|T|-|-|a discount rate of 12.24%#1
+exit_multiple|8.0|13.0|Piper Sandler|ddm|A|P/E|-|multiples ranging from 8.0x to 13.0x#2
+discount_rate|9.0|15.0|Piper Sandler|ddm|A|-|-|different discount rates ranging from 9.0% to 15.0%#2
+exit_multiple|8.0|13.0|Piper Sandler|ddm|A|P/E|-|multiples range of 8.0x to 13.0x#2
+discount_rate|12.24|12.24|Piper Sandler|ddm|A|-|-|a discount rate of 12.24%#2
+fee_total|1.3|1.3|Piper Sandler|-|-|-|-|an amount equal to $1,300,000
+fee_opinion|0.25|0.25|Piper Sandler|-|-|-|-|a $250,000 fee from Bay Banks upon rendering its opinion
+discount_rate|14.0|14.0|Raymond James|dcf|U|-|-|discount rates at approximately 14.0%
+discount_rate|14.0|14.0|Raymond James|dcf|P|-|-|discount rate at approximately 14.0%
+value_per_share|4.43|9.27|Piper Sandler|ddm|T|-|-|$4.43 to $9.27
+value_per_share|4.52|9.17|Piper Sandler|ddm|T|-|-|$4.52 to $9.17
+value_per_share|13.71|26.90|Piper Sandler|ddm|A|-|-|$13.71 to $26.90
+value_per_share|9.50|17.56|Piper Sandler|ddm|A|-|-|$9.50 to $17.56

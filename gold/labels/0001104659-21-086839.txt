@@ -1,0 +1,14 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+discount_rate|6.25|8.75|Moelis|ddm|A|-|2021-06-30|a range of discount rates (based on an estimated range of the cost of equity for Realty Income) of 6.25% to 8.75%
+exit_multiple|16.50|21.00|Moelis|ddm|A|FFO|-|a range of multiples of 16.50x to 21.00x
+discount_rate|7.00|10.00|Moelis|ddm|T|-|2021-06-30|a range of discount rates (based on an estimated range of the cost of equity for VEREIT) of 7.00% to 10.00%
+exit_multiple|12.50|15.50|Moelis|ddm|T|FFO|-|a range of multiples of 12.50x to 15.50x
+value_per_share|40.37|52.31|Moelis|ddm|T|-|-|$40.37 to $52.31
+value_per_share|59.57|78.28|Moelis|ddm|A|-|-|$59.57 to $78.28
+fee_total|19.0|19.0|Moelis|-|-|-|-|a transaction fee of $19.0 million
+terminal_growth|0.25|0.75|J.P. Morgan|dcf|T|-|-|perpetual growth rates ranging from 0.25% to 0.75%
+terminal_growth|0.75|1.25|J.P. Morgan|dcf|A|-|-|perpetual growth rates ranging from 0.25% to 0.75%, in the case of VEREIT, and 0.75% to 1.25%
+discount_rate|6.5|7.0|J.P. Morgan|dcf|T|-|2020-12-31|discount rates ranging from 6.5% to 7.0% for VEREIT
+discount_rate|5.875|6.375|J.P. Morgan|dcf|A|-|2020-12-31|discount rates ranging from 6.5% to 7.0% for VEREIT, and 5.875% to 6.375%
+fee_total|38.0|38.0|J.P. Morgan|-|-|-|-|a fee of up to $38.0 million
+fee_opinion|5.0|5.0|J.P. Morgan|-|-|-|-|$5.0 million of which became payable to J.P. Morgan at the time J.P. Morgan delivered its opinion

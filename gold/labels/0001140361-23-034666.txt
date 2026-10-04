@@ -1,0 +1,15 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|56.00|56.00|-|-|-|-|-|an amount in cash equal to $56.00
+terminal_growth|2.5|3.5|Evercore|dcf|T|-|-|perpetuity growth rates of 2.5% to 3.5%
+discount_rate|12.0|14.0|Evercore|dcf|T|-|2023-04-02|discount rates ranging from 12.0% to 14.0%
+value_per_share|36.25|56.25|Evercore|dcf|T|-|-|$36.25 to $56.25
+fee_total|23.3|23.3|Evercore|-|-|-|-|a fee for its services in the amount of approximately $23.3 million
+fee_opinion|2.0|2.0|Evercore|-|-|-|-|$2.0 million came due upon delivery of Evercore's opinion
+fee_opinion|0.5|0.5|Evercore|-|-|-|-|$0.5 million came due upon delivery of Evercore's second opinion
+terminal_growth|2.5|3.5|J.P. Morgan|dcf|T|-|-|terminal growth rates ranging from 2.5% to 3.5%
+discount_rate|11.0|13.0|J.P. Morgan|dcf|T|-|2023-04-02|discount rates ranging from 11.0% to 13.0%
+discount_rate|11.0|13.0|J.P. Morgan|dcf|T|-|-|discount range of 11.0% to 13.0%
+fee_opinion|2.0|2.0|J.P. Morgan|-|-|-|-|a fee of $2.0 million for delivery of its opinion
+fee_opinion|0.5|0.5|J.P. Morgan|-|-|-|-|a fee of $0.5 million for delivery of its opinion
+fee_total|23.0|23.0|J.P. Morgan|-|-|-|-|a transaction fee of approximately $23.0 million upon the closing of the Merger
+value_per_share|42.80|68.60|J.P. Morgan|dcf|T|-|-|$42.80 to $68.60

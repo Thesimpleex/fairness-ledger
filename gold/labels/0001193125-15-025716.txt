@@ -1,0 +1,9 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+exit_multiple|0.71|1.11|Goldman Sachs|ddm|T|book value|-|0.71x to 1.11x
+discount_rate|7.0|9.0|Goldman Sachs|ddm|T|-|2015-03-31|discount rates ranging from 7.0% to 9.0%
+exit_multiple|0.90|1.30|Goldman Sachs|ddm|P|book value|-|0.90x to 1.30x
+discount_rate|5.5|7.5|Goldman Sachs|ddm|P|-|2015-03-31|discount rates ranging from 5.5% to 7.5%
+discount_rate|6.5|6.5|Goldman Sachs|pvfp|P|-|2015-03-31|a discount rate of 6.5%
+discount_rate|8.0|8.0|Goldman Sachs|pvfp|T|-|2015-03-31|a discount rate of 8.0%
+fee_total|19|19|Goldman Sachs|-|-|-|-|as approximately $19 million#1
+fee_total|19|19|Goldman Sachs|-|-|-|-|as approximately $19 million#2

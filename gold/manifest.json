@@ -1,0 +1,442 @@
+[
+ {
+  "accession": "0001193125-12-333988",
+  "company": "Johnson Controls International plc",
+  "file_date": "2012-08-03",
+  "era": "2012-2014",
+  "dominant_advisor": "Goldman Sachs",
+  "split": "dev"
+ },
+ {
+  "accession": "0001047469-12-003064",
+  "company": "HARLEYSVILLE GROUP INC",
+  "file_date": "2012-03-22",
+  "era": "2012-2014",
+  "dominant_advisor": "KBW",
+  "split": "dev"
+ },
+ {
+  "accession": "0001193125-12-222497",
+  "company": "CH ENERGY GROUP INC",
+  "file_date": "2012-05-09",
+  "era": "2012-2014",
+  "dominant_advisor": "Lazard",
+  "split": "dev"
+ },
+ {
+  "accession": "0001213900-14-001125",
+  "company": "Patient Safety Technologies, Inc",
+  "file_date": "2014-02-25",
+  "era": "2012-2014",
+  "dominant_advisor": "BofA Securities",
+  "split": "dev"
+ },
+ {
+  "accession": "0001193125-12-518230",
+  "company": "RALCORP HOLDINGS INC /MO",
+  "file_date": "2012-12-28",
+  "era": "2012-2014",
+  "dominant_advisor": "Barclays",
+  "split": "dev"
+ },
+ {
+  "accession": "0001193125-16-683386",
+  "company": "IMS Health Holdings, Inc.",
+  "file_date": "2016-08-17",
+  "era": "2015-2017",
+  "dominant_advisor": "Goldman Sachs",
+  "split": "dev"
+ },
+ {
+  "accession": "0001144204-16-075360",
+  "company": "NEWBRIDGE BANCORP",
+  "file_date": "2016-01-13",
+  "era": "2015-2017",
+  "dominant_advisor": "KBW",
+  "split": "dev"
+ },
+ {
+  "accession": "0001571049-16-020681",
+  "company": "AEP INDUSTRIES INC",
+  "file_date": "2016-12-15",
+  "era": "2015-2017",
+  "dominant_advisor": "BofA Securities",
+  "split": "dev"
+ },
+ {
+  "accession": "0001193125-16-705561",
+  "company": "Fleetmatics Group Ltd",
+  "file_date": "2016-09-09",
+  "era": "2015-2017",
+  "dominant_advisor": "Morgan Stanley",
+  "split": "dev"
+ },
+ {
+  "accession": "0001193125-16-582379",
+  "company": "MEDIA GENERAL INC",
+  "file_date": "2016-05-09",
+  "era": "2015-2017",
+  "dominant_advisor": "RBC Capital Markets",
+  "split": "dev"
+ },
+ {
+  "accession": "0001571049-18-000479",
+  "company": "Poage Bankshares, Inc.",
+  "file_date": "2018-09-13",
+  "era": "2018-2020",
+  "dominant_advisor": "KBW",
+  "split": "dev"
+ },
+ {
+  "accession": "0001140361-19-005654",
+  "company": "ULTIMATE SOFTWARE GROUP INC",
+  "file_date": "2019-03-26",
+  "era": "2018-2020",
+  "dominant_advisor": "Goldman Sachs",
+  "split": "dev"
+ },
+ {
+  "accession": "0001193125-20-000960",
+  "company": "ANIXTER INTERNATIONAL INC",
+  "file_date": "2020-01-03",
+  "era": "2018-2020",
+  "dominant_advisor": "Centerview",
+  "split": "dev"
+ },
+ {
+  "accession": "0001047469-19-006933",
+  "company": "LIBERTY PROPERTY TRUST",
+  "file_date": "2019-12-23",
+  "era": "2018-2020",
+  "dominant_advisor": "Citi",
+  "split": "dev"
+ },
+ {
+  "accession": "0001193125-20-315770",
+  "company": "BAY BANKS OF VIRGINIA INC",
+  "file_date": "2020-12-11",
+  "era": "2018-2020",
+  "dominant_advisor": "Piper Sandler",
+  "split": "dev"
+ },
+ {
+  "accession": "0001193125-22-304423",
+  "company": "Altra Industrial Motion Corp.",
+  "file_date": "2022-12-14",
+  "era": "2021-2022",
+  "dominant_advisor": "Goldman Sachs",
+  "split": "dev"
+ },
+ {
+  "accession": "0001193125-21-129023",
+  "company": "People's United Financial, Inc.",
+  "file_date": "2021-04-23",
+  "era": "2021-2022",
+  "dominant_advisor": "KBW",
+  "split": "dev"
+ },
+ {
+  "accession": "0001193125-21-036492",
+  "company": "QEP RESOURCES, INC.",
+  "file_date": "2021-02-10",
+  "era": "2021-2022",
+  "dominant_advisor": "Evercore",
+  "split": "dev"
+ },
+ {
+  "accession": "0001140361-21-023758",
+  "company": "STERLING BANCORP",
+  "file_date": "2021-07-08",
+  "era": "2021-2022",
+  "dominant_advisor": "Piper Sandler",
+  "split": "dev"
+ },
+ {
+  "accession": "0001213900-22-050228",
+  "company": "Steel Connect LLC",
+  "file_date": "2022-08-23",
+  "era": "2021-2022",
+  "dominant_advisor": "Houlihan Lokey",
+  "split": "dev"
+ },
+ {
+  "accession": "0001140361-23-017708",
+  "company": "Evoqua Water Technologies Corp.",
+  "file_date": "2023-04-11",
+  "era": "2023-2025",
+  "dominant_advisor": "Goldman Sachs",
+  "split": "dev"
+ },
+ {
+  "accession": "0001104659-23-088116",
+  "company": "BUNGELTD",
+  "file_date": "2023-08-07",
+  "era": "2023-2025",
+  "dominant_advisor": "BofA Securities",
+  "split": "dev"
+ },
+ {
+  "accession": "0001193125-25-137049",
+  "company": "Walgreens Boots Alliance, Inc.",
+  "file_date": "2025-06-06",
+  "era": "2023-2025",
+  "dominant_advisor": "Centerview",
+  "split": "dev"
+ },
+ {
+  "accession": "0001140361-23-034666",
+  "company": "CIRCOR INTERNATIONAL INC",
+  "file_date": "2023-07-17",
+  "era": "2023-2025",
+  "dominant_advisor": "Evercore",
+  "split": "dev"
+ },
+ {
+  "accession": "0001193125-24-156116",
+  "company": "Alcoa Corp",
+  "file_date": "2024-06-06",
+  "era": "2023-2025",
+  "dominant_advisor": "J.P. Morgan",
+  "split": "dev"
+ },
+ {
+  "accession": "0001193125-12-368964",
+  "company": "PAR PHARMACEUTICAL COMPANIES, INC.",
+  "file_date": "2012-08-27",
+  "era": "2012-2014",
+  "dominant_advisor": "J.P. Morgan",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-12-388318",
+  "company": "CAPITAL BANK CORP",
+  "file_date": "2012-09-12",
+  "era": "2012-2014",
+  "dominant_advisor": "BofA Securities",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-12-392665",
+  "company": "Cooper Industries plc",
+  "file_date": "2012-09-14",
+  "era": "2012-2014",
+  "dominant_advisor": "Goldman Sachs",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-12-480049",
+  "company": "METROPOLITAN HEALTH NETWORKS INC",
+  "file_date": "2012-11-26",
+  "era": "2012-2014",
+  "dominant_advisor": "Barclays",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-14-340941",
+  "company": "Heritage Financial Group Inc",
+  "file_date": "2014-09-15",
+  "era": "2012-2014",
+  "dominant_advisor": "KBW",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-12-212341",
+  "company": "ADAMS GOLF INC",
+  "file_date": "2012-05-04",
+  "era": "2012-2014",
+  "dominant_advisor": "Morgan Stanley",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-15-108584",
+  "company": "Cambridge Capital Acquisition Corp",
+  "file_date": "2015-03-27",
+  "era": "2015-2017",
+  "dominant_advisor": "J.P. Morgan",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-17-189582",
+  "company": "PANERA BREAD CO",
+  "file_date": "2017-06-01",
+  "era": "2015-2017",
+  "dominant_advisor": "Morgan Stanley",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-15-025716",
+  "company": "PLATINUM UNDERWRITERS HOLDINGS LTD",
+  "file_date": "2015-01-29",
+  "era": "2015-2017",
+  "dominant_advisor": "Goldman Sachs",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-15-182522",
+  "company": "WRIGHT MEDICAL GROUP INC",
+  "file_date": "2015-05-12",
+  "era": "2015-2017",
+  "dominant_advisor": "BofA Securities",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001047469-17-000993",
+  "company": "FAIRPOINT COMMUNICATIONS INC",
+  "file_date": "2017-02-27",
+  "era": "2015-2017",
+  "dominant_advisor": "Evercore",
+  "split": "holdout"
+ },
+ {
+  "accession": "0000905729-16-000606",
+  "company": "TALMER BANCORP, INC.",
+  "file_date": "2016-06-13",
+  "era": "2015-2017",
+  "dominant_advisor": "KBW",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-20-263851",
+  "company": "Fisker Inc./DE",
+  "file_date": "2020-10-05",
+  "era": "2018-2020",
+  "dominant_advisor": "Goldman Sachs",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-19-240539",
+  "company": "Monotype Imaging Holdings Inc.",
+  "file_date": "2019-09-09",
+  "era": "2018-2020",
+  "dominant_advisor": "J.P. Morgan",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001047469-20-001712",
+  "company": "FORESCOUT TECHNOLOGIES, INC",
+  "file_date": "2020-03-24",
+  "era": "2018-2020",
+  "dominant_advisor": "Morgan Stanley",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-19-026360",
+  "company": "NUTRI SYSTEM INC /DE/",
+  "file_date": "2019-02-04",
+  "era": "2018-2020",
+  "dominant_advisor": "Evercore",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001047469-19-001084",
+  "company": "NEWMONT Corp /DE/",
+  "file_date": "2019-03-11",
+  "era": "2018-2020",
+  "dominant_advisor": "Citi",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-18-347556",
+  "company": "Blue Hills Bancorp, Inc.",
+  "file_date": "2018-12-12",
+  "era": "2018-2020",
+  "dominant_advisor": "KBW",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-21-031441",
+  "company": "Acacia Communications, Inc.",
+  "file_date": "2021-02-08",
+  "era": "2021-2022",
+  "dominant_advisor": "Goldman Sachs",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-22-227831",
+  "company": "1Life Healthcare Inc",
+  "file_date": "2022-08-24",
+  "era": "2021-2022",
+  "dominant_advisor": "Morgan Stanley",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001104659-21-086839",
+  "company": "VEREIT, Inc.",
+  "file_date": "2021-06-29",
+  "era": "2021-2022",
+  "dominant_advisor": "J.P. Morgan",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-21-195175",
+  "company": "Hilton Grand Vacations Inc.",
+  "file_date": "2021-06-21",
+  "era": "2021-2022",
+  "dominant_advisor": "BofA Securities",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001047469-21-001235",
+  "company": "Ardagh MP USA Inc.",
+  "file_date": "2021-07-07",
+  "era": "2021-2022",
+  "dominant_advisor": "Citi",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001104659-21-056580",
+  "company": "BOINGO WIRELESS, INC.",
+  "file_date": "2021-04-28",
+  "era": "2021-2022",
+  "dominant_advisor": "Barclays",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-25-155514",
+  "company": "CSLM ACQUISITION CORP.",
+  "file_date": "2025-07-03",
+  "era": "2023-2025",
+  "dominant_advisor": "J.P. Morgan",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001140361-25-029741",
+  "company": "Olo Inc.",
+  "file_date": "2025-08-08",
+  "era": "2023-2025",
+  "dominant_advisor": "Goldman Sachs",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001104659-25-115451",
+  "company": "TrueCar, Inc.",
+  "file_date": "2025-11-24",
+  "era": "2023-2025",
+  "dominant_advisor": "Morgan Stanley",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001140361-25-035721",
+  "company": "MeridianLink, Inc.",
+  "file_date": "2025-09-22",
+  "era": "2023-2025",
+  "dominant_advisor": "Centerview",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001193125-25-202246",
+  "company": "Aris Water Solutions, Inc.",
+  "file_date": "2025-09-12",
+  "era": "2023-2025",
+  "dominant_advisor": "Citi",
+  "split": "holdout"
+ },
+ {
+  "accession": "0001140361-25-045563",
+  "company": "CSG SYSTEMS INTERNATIONAL INC",
+  "file_date": "2025-12-16",
+  "era": "2023-2025",
+  "dominant_advisor": "Jefferies",
+  "split": "holdout"
+ }
+]

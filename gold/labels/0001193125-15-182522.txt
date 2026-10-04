@@ -1,0 +1,27 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+terminal_growth|3.0|4.0|J.P. Morgan|dcf|U|-|-|a perpetual growth rate ranging from 3.0% to 4.0%
+discount_rate|9.0|10.0|J.P. Morgan|dcf|U|-|-|a discount rate range of 9.0% to 10.0%
+value_per_share|21.00|31.00|J.P. Morgan|dcf|T|-|-|$21.00 and $31.00
+value_per_share|22.25|31.50|J.P. Morgan|dcf|A|-|-|$22.25 and $31.50
+discount_rate|9.0|10.0|J.P. Morgan|dcf|P|-|-|a range of discount rates from 9.0% to 10.0%#1
+terminal_growth|3.0|4.0|J.P. Morgan|dcf|P|-|-|a range of perpetual growth rates from 3.0% to 4.0%
+value_per_share|28.50|40.25|J.P. Morgan|dcf|A|-|-|$28.50 and $40.25
+terminal_growth|3.5|3.5|J.P. Morgan|dcf|U|-|-|a perpetual growth rate of 3.5%
+discount_rate|9.5|9.5|J.P. Morgan|dcf|U|-|-|a discount rate of 9.5%
+fee_total|9|9|J.P. Morgan|-|-|-|-|a total of $9 million
+fee_contingent|8|8|J.P. Morgan|-|-|-|-|$8 million of which will become payable only if the proposed merger is consummated
+discount_rate|9.0|10.0|Perella Weinberg|dcf|A|-|-|discount rates ranging from 9.0% to 10.0%#1
+terminal_growth|3.0|4.0|Perella Weinberg|dcf|A|-|-|perpetuity growth rates ranging from 3.0% to 4.0%#1
+discount_rate|9.0|10.0|Perella Weinberg|dcf|A|-|-|discounted using rates ranging from 9.0% to 10.0%#1
+discount_rate|9.0|10.0|Perella Weinberg|dcf|A|-|-|a range of discount rates from 9.0% to 10.0%#2
+discount_rate|9.0|10.0|Perella Weinberg|dcf|T|-|-|discount rates ranging from 9.0% to 10.0%#2
+terminal_growth|3.0|4.0|Perella Weinberg|dcf|T|-|-|perpetuity growth rates ranging from 3.0% to 4.0%#2
+discount_rate|9.0|10.0|Perella Weinberg|dcf|T|-|-|discounted using rates ranging from 9.0% to 10.0%#2
+discount_rate|9.0|10.0|Perella Weinberg|dcf|T|-|-|a range of discount rates from 9.0% to 10.0%#3
+exit_multiple|3.00|3.50|BofA Securities|dcf|A|revenue|-|terminal last twelve month multiples of 3.00x to 3.50x
+discount_rate|8.00|10.00|BofA Securities|dcf|A|-|2014-12-31|discount rates ranging from 8.00% to 10.00%
+discount_rate|9.00|9.00|BofA Securities|dcf|A|-|-|a weighted average cost of capital of 9.00%
+exit_multiple|3.50|4.00|BofA Securities|dcf|T|revenue|-|terminal last twelve month multiples of 3.50x to 4.00x
+discount_rate|7.00|9.00|BofA Securities|dcf|T|-|2014-12-31|discount rates ranging from 7.00% to 9.00%
+discount_rate|8.00|8.00|BofA Securities|dcf|T|-|-|a weighted average cost of capital of 8.00%
+fee_total|12.2|12.2|BofA Securities|-|-|-|-|an aggregate fee currently estimated to be approximately $12.2 million

@@ -1,0 +1,9 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|1.35|1.35|-|-|-|-|-|right to receive (a) $1.35 in cash#1
+fee_total|0.5|0.5|Imperial Capital|-|-|-|-|a fee of $500,000 for its services
+terminal_growth|0.0|2.0|Houlihan Lokey|dcf|T|-|-|perpetuity growth rates of 0.0% to 2.0%
+discount_rate|13.0|15.0|Houlihan Lokey|dcf|T|-|-|discount rates ranging from 13.0% to 15.0%
+fee_total|3.125|3.125|Houlihan Lokey|-|-|-|-|a fee of up to $3,125,000
+fee_opinion|0.5|0.5|Houlihan Lokey|-|-|-|-|$500,000 of which became payable upon delivery of Houlihan Lokey's opinion
+fee_contingent|1.0|1.0|Houlihan Lokey|-|-|-|-|up to $1,000,000 of which is contingent upon consummation of the Merger
+value_per_share|0.78|1.12|Houlihan Lokey|dcf|T|-|-|$0.78 to $1.12

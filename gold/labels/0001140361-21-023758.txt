@@ -1,0 +1,43 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+exit_multiple|11.0|13.0|J.P. Morgan|ddm|T|P/E|-|multiple range of 11.0x to 13.0x
+discount_rate|10.75|12.75|J.P. Morgan|ddm|T|-|-|cost of equity range from 10.75% to 12.75%#1
+discount_rate|10.75|12.75|J.P. Morgan|ddm|T|-|-|cost of equity range from 10.75% to 12.75%#2
+exit_multiple|13.0|15.0|J.P. Morgan|ddm|A|P/E|-|multiple range of 13.0x to 15.0x
+discount_rate|9.75|11.75|J.P. Morgan|ddm|A|-|-|cost of equity range from 9.75% to 11.75%
+discount_rate|9.75|11.75|J.P. Morgan|ddm|A|-|-|range of cost of equity from 9.75% to 11.75%
+fee_total|37|37|J.P. Morgan|-|-|-|-|a fee of $37 million
+fee_opinion|5|5|J.P. Morgan|-|-|-|-|$5 million of which became payable upon the delivery of J.P. Morgan's opinion
+exit_multiple|11.0|16.0|Piper Sandler|ddm|A|P/E|-|multiples ranging from 11.0x to 16.0x#1
+discount_rate|8.0|13.0|Piper Sandler|ddm|A|-|-|different discount rates ranging from 8.0% to 13.0%#1
+exit_multiple|11.0|16.0|Piper Sandler|ddm|A|P/E|-|multiples range of 11.0x to 16.0x#1
+discount_rate|10.87|10.87|Piper Sandler|ddm|A|-|-|a discount rate of 10.87%#1
+exit_multiple|11.0|16.0|Piper Sandler|ddm|T|P/E|-|multiples ranging from 11.0x to 16.0x#2
+discount_rate|8.0|13.0|Piper Sandler|ddm|T|-|-|different discount rates ranging from 8.0% to 13.0%#2
+exit_multiple|11.0|16.0|Piper Sandler|ddm|T|P/E|-|multiples range of 11.0x to 16.0x#2
+discount_rate|10.87|10.87|Piper Sandler|ddm|T|-|-|a discount rate of 10.87%#2
+fee_opinion|3.25|3.25|Piper Sandler|-|-|-|-|a $3.25 million fee from Webster upon rendering its opinion
+exit_multiple|10.0|13.6|Citi|ddm|T|P/E|-|terminal price-to-earnings ratio multiples of 10.0x to 13.6x
+discount_rate|12.9|14.6|Citi|ddm|T|-|2020-12-31|discount rates ranging from 12.9% to 14.6%
+exit_multiple|13.2|17.8|Citi|ddm|A|P/E|-|terminal price-to-earnings ratio multiples of 13.2x to 17.8x
+discount_rate|11.1|12.5|Citi|ddm|A|-|2020-12-31|discount rates ranging from 11.1% to 12.5%
+discount_rate|13.8|13.8|Citi|pvfp|T|-|-|a discount rate of 13.8%
+discount_rate|11.8|11.8|Citi|pvfp|A|-|-|a discount rate of 11.8%
+fee_total|28.5|28.5|Citi|-|-|-|-|an aggregate fee of $28.5 million
+fee_opinion|3.5|3.5|Citi|-|-|-|-|$3.5 million of which was payable upon delivery of Citi's opinion
+fee_contingent|25|25|Citi|-|-|-|-|$25 million of which is payable contingent upon consummation of the transaction
+discount_rate|12.5|14.5|KBW|ddm|T|-|-|assumed discount rates ranging from 12.5% to 14.5%#1
+exit_multiple|10.0|14.0|KBW|ddm|T|P/E|-|a range of 10.0x to 14.0x Sterling's estimated 2026 earnings
+value_per_share|22.47|30.07|KBW|ddm|T|-|-|$22.47 per share to $30.07 per share
+discount_rate|12.5|14.5|KBW|ddm|A|-|-|assumed discount rates ranging from 12.5% to 14.5%#2
+exit_multiple|12.0|16.0|KBW|ddm|A|P/E|-|a range of 12.0x to 16.0x Webster's estimated 2026 earnings
+value_per_share|47.89|63.10|KBW|ddm|A|-|-|$47.89 per share to $63.10 per share
+discount_rate|12.5|14.5|KBW|ddm|P|-|-|assumed discount rates ranging from 12.5% to 14.5%#3
+exit_multiple|11.0|15.0|KBW|ddm|P|P/E|-|a range of 11.0x to 15.0x to the pro forma combined entity's estimated 2026 earnings
+fee_total|1.5|1.5|KBW|-|-|-|-|a cash fee of $1,500,000
+fee_opinion|1.5|1.5|KBW|-|-|-|-|a cash fee of $1,500,000
+value_per_share|22.61|27.32|J.P. Morgan|ddm|T|-|-|$22.61 to $27.32
+value_per_share|50.12|60.36|J.P. Morgan|ddm|A|-|-|$50.12 to $60.36
+value_per_share|35.12|59.93|Piper Sandler|ddm|A|-|-|$35.12 to $59.93
+value_per_share|37.39|67.27|Piper Sandler|ddm|A|-|-|$37.39 to $67.27
+value_per_share|18.05|32.01|Piper Sandler|ddm|T|-|-|$18.05 to $32.01
+value_per_share|17.82|33.26|Piper Sandler|ddm|T|-|-|$17.82 to $33.26

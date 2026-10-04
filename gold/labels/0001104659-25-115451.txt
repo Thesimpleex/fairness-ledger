@@ -1,0 +1,9 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|2.55|2.55|-|-|-|-|-|right to receive $2.55 per share in cash#1
+discount_rate|23.0|23.0|Morgan Stanley|pvfp|T|-|2025-09-30|a discount rate of 23.0%#1
+terminal_growth|2.0|4.0|Morgan Stanley|dcf|T|-|-|a perpetuity growth rate range of 2.0% to 4.0%
+discount_rate|21.0|25.0|Morgan Stanley|dcf|T|-|2025-09-30|a discount rate range of 21.0% to 25.0%
+value_per_share|2.35|2.80|Morgan Stanley|dcf|T|-|-|$2.35 to $2.80
+discount_rate|23.0|23.0|Morgan Stanley|pvfp|T|-|-|a discount rate of 23.0%#2
+value_per_share|1.63|2.64|Morgan Stanley|pvfp|T|-|-|$1.63 to $2.64
+fee_total|12.5|12.5|Morgan Stanley|-|-|-|-|a transaction fee of $12.5 million

@@ -1,0 +1,22 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+exit_multiple|5.0|6.0|Evercore|dcf|T|EBITDA|-|5.0x to 6.0x and 0.0% to 1.0%
+terminal_growth|0.0|1.0|Evercore|dcf|T|-|-|5.0x to 6.0x and 0.0% to 1.0%
+discount_rate|6.75|7.75|Evercore|dcf|T|-|2016-12-31|a discount rate of 6.75% to 7.75%
+discount_rate|7.25|7.25|Evercore|dcf|T|-|2016-12-31|a discount rate of 7.25%
+exit_multiple|8.0|9.0|Evercore|dcf|A|EBITDA|-|8.0x to 9.0x and 1.0% to 2.0%
+terminal_growth|1.0|2.0|Evercore|dcf|A|-|-|8.0x to 9.0x and 1.0% to 2.0%
+discount_rate|6.0|7.0|Evercore|dcf|A|-|2016-12-31|a discount rate of 6.0% to 7.0%
+discount_rate|10.0|10.0|Evercore|pvfp|T|-|2016-12-31|using a discount rate of 10.0%
+discount_rate|9.5|9.5|Evercore|pvfp|A|-|2016-12-31|using a discount rate of 9.5%
+fee_contingent|13.7|13.7|Evercore|-|-|-|-|an additional fee of $13.7 million following the consummation of the Merger
+discount_rate|9|9|Morgan Stanley|pvfp|T|-|-|discounted at 9% cost of equity#1
+discount_rate|9|9|Morgan Stanley|pvfp|A|-|-|discounted at 9% cost of equity#2
+exit_multiple|5.00|6.00|Morgan Stanley|dcf|T|EBITDA|-|terminal EBITDA multiples of 5.00x to 6.00x
+discount_rate|6.25|7.25|Morgan Stanley|dcf|T|-|2016-12-31|a range of discount rates from 6.25% to 7.25%
+discount_rate|6.75|6.75|Morgan Stanley|dcf|A|-|-|weighted average cost of capital of 6.75%
+exit_multiple|8.00|9.00|Morgan Stanley|dcf|A|EBITDA|-|terminal EBITDA multiples of 8.00x to 9.00x
+discount_rate|6.25|7.25|Morgan Stanley|dcf|A|-|2016-12-31|a range of discount rates of 6.25% to 7.25%
+value_per_share|8.99|22.60|Morgan Stanley|dcf|T|-|-|$8.99 to $22.60
+value_per_share|11.63|22.50|Morgan Stanley|dcf|T|-|-|$11.63 to $22.50
+value_per_share|16.71|22.90|Morgan Stanley|dcf|A|-|-|$16.71 to $22.90
+fee_total|13|13|Morgan Stanley|-|-|-|-|a transaction fee of $13 million

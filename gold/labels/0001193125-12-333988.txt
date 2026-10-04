@@ -1,0 +1,15 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+discount_rate|11.0|11.0|Goldman Sachs|dcf|T|-|-|an 11.0% discount rate
+terminal_growth|3.5|3.5|Goldman Sachs|dcf|T|-|-|3.5% perpetuity growth#1
+discount_rate|10.5|10.5|Goldman Sachs|dcf|A|-|-|a 10.5% discount rate#1
+terminal_growth|3.5|3.5|Goldman Sachs|dcf|A|-|-|3.5% perpetuity growth#2
+discount_rate|10.5|10.5|Goldman Sachs|dcf|T|-|-|a 10.5% discount rate#2
+terminal_growth|4.0|4.0|Goldman Sachs|dcf|T|-|-|4.0% perpetuity growth#1
+discount_rate|10.0|10.0|Goldman Sachs|dcf|A|-|-|a 10.0% discount rate#1
+terminal_growth|4.0|4.0|Goldman Sachs|dcf|A|-|-|4.0% perpetuity growth#2
+discount_rate|10.0|10.0|Goldman Sachs|dcf|T|-|-|a 10.0% discount rate#2
+terminal_growth|4.5|4.5|Goldman Sachs|dcf|T|-|-|4.5% perpetuity growth rate#1
+discount_rate|9.5|9.5|Goldman Sachs|dcf|A|-|-|a 9.5% discount rate
+terminal_growth|4.5|4.5|Goldman Sachs|dcf|A|-|-|4.5% perpetuity growth rate#2
+fee_total|18|18|Goldman Sachs|-|-|-|-|a transaction fee of $18 million#1
+fee_total|18|18|Goldman Sachs|-|-|-|-|a transaction fee of $18 million#2

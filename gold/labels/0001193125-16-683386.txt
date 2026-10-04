@@ -1,0 +1,18 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+discount_rate|6.0|7.0|Goldman Sachs|dcf|T|-|2016-03-31|discount rates ranging from 6.0% to 7.0%#1
+terminal_growth|2.0|3.0|Goldman Sachs|dcf|T|-|-|perpetuity growth rates ranging from 2.0% to 3.0%#1
+implied_multiple|12.0|20.0|Goldman Sachs|dcf|T|EBITDA|-|implied exit terminal year EBITDA multiples ranging from 12.0x to 20.0x
+value_per_share|27.83|52.41|Goldman Sachs|dcf|T|-|-|ranging from $27.83 to $52.41
+discount_rate|6.0|7.0|Goldman Sachs|dcf|P|-|2016-03-31|discount rates ranging from 6.0% to 7.0%#2
+terminal_growth|2.0|3.0|Goldman Sachs|dcf|P|-|-|perpetuity growth rates ranging from 2.0% to 3.0%#2
+implied_multiple|11.5|19.3|Goldman Sachs|dcf|P|EBITDA|-|implied exit terminal year EBITDA multiples ranging from 11.5x to 19.3x
+value_per_share|37.94|66.88|Goldman Sachs|dcf|P|-|-|from $37.94 to $66.88
+discount_rate|7.7|7.7|Goldman Sachs|pvfp|T|-|-|using a discount rate of 7.7%
+discount_rate|7.3|7.3|Goldman Sachs|pvfp|P|-|-|using a discount rate of 7.3%
+fee_total|5|5|Goldman Sachs|-|-|-|-|a transaction fee of $5 million
+exit_multiple|10.0|12.0|Barclays|dcf|A|EBITDA|-|10.0x to 12.0x
+discount_rate|7.75|8.25|Barclays|dcf|A|-|-|after-tax discount rates of 7.75% to 8.25%#1
+exit_multiple|13.0|15.0|Barclays|dcf|T|EBITDA|-|13.0x to 15.0x
+discount_rate|7.75|8.25|Barclays|dcf|T|-|-|after-tax discount rates of 7.75% to 8.25%#2
+fee_opinion|5|5|Barclays|-|-|-|-|Quintiles paid Barclays $5 million upon the delivery of Barclays' opinion
+fee_contingent|15|15|Barclays|-|-|-|-|Additional compensation of $15 million will be payable on completion of the merger

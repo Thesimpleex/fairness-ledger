@@ -1,0 +1,21 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|11.45|11.45|-|-|-|-|-|the right to receive $11.45 in cash
+discount_rate|11.5|11.5|Centerview|dcf|T|-|-|applied a discount rate of 11.5%
+discount_rate|9.25|10.75|Centerview|dcf|T|-|2024-11-30|using discount rates ranging from 9.25% to 10.75%
+exit_multiple|5.0|7.0|Centerview|dcf|T|EBITDA|-|ranging from 5.0x to 7.0x
+discount_rate|7|7|Centerview|dcf|T|-|2024-11-30|using a discount rate of 7%
+discount_rate|11.0|11.0|Centerview|pvfp|T|-|-|a cost of equity equal to 11.0%
+fee_total|60|60|Centerview|-|-|-|-|an aggregate fee of approximately $60 million
+fee_opinion|15|15|Centerview|-|-|-|-|$15 million of which was payable upon the rendering of Centerview's opinion
+fee_contingent|10|10|Centerview|-|-|-|-|up to $10 million of which is an incentive fee
+discount_rate|9.9|9.9|Morgan Stanley|dcf|T|-|2025-02-28|using a discount rate of 9.9%
+discount_rate|9.0|10.3|Morgan Stanley|dcf|T|-|2025-02-28|discount rate range of 9.0% to 10.3%
+exit_multiple|5.0|7.0|Morgan Stanley|dcf|T|EBITDA|-|EBITDA exit multiple range of 5.0x to 7.0x
+implied_growth|-1.2|2.6|Morgan Stanley|dcf|T|-|-|implied perpetuity growth rate of -1.2% to 2.6%
+discount_rate|12.3|12.3|Morgan Stanley|pvfp|T|-|2025-02-28|at a discount rate of 12.3%
+fee_total|10|10|Morgan Stanley|-|-|-|-|a one-time fee of $10 million
+fee_opinion|5|5|Morgan Stanley|-|-|-|-|($5 million) of which was due and payable upon the delivery of a financial opinion
+fee_contingent|5|5|Morgan Stanley|-|-|-|-|($5 million) of which is due and payable upon the consummation of the Transaction
+value_per_share|11.60|19.90|Morgan Stanley|dcf|T|-|-|$11.60 to $19.90
+value_per_share|10.80|19.10|Centerview|dcf|T|-|-|$10.80 to $19.10
+value_per_share|8.10|10.40|Centerview|pvfp|T|-|-|$8.10 to $10.40

@@ -1,0 +1,8 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+terminal_growth|1.50|2.50|BofA Securities|dcf|T|-|-|perpetuity growth rate range of 1.50% to 2.50%#1
+discount_rate|7.8|9.3|BofA Securities|dcf|T|-|2023-03-31|discount rates ranging from 7.8% to 9.3%#1
+terminal_growth|1.50|2.50|BofA Securities|dcf|A|-|-|perpetuity growth rate range of 1.50% to 2.50%#2
+discount_rate|7.8|9.3|BofA Securities|dcf|A|-|2023-03-31|discount rates ranging from 7.8% to 9.3%#2
+fee_total|25|25|BofA Securities|-|-|-|-|an aggregate fee of $25 million
+fee_opinion|1.5|1.5|BofA Securities|-|-|-|-|$1.5 million of which was payable upon delivery of its opinion
+value_per_share|142.50|194.15|BofA Securities|dcf|A|-|-|$142.50 to $194.15

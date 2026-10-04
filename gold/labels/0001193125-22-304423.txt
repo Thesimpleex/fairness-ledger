@@ -1,0 +1,11 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|62.00|62.00|-|-|-|-|-|right to receive $62.00 in cash#1
+discount_rate|10.0|11.0|Goldman Sachs|dcf|T|-|2022-09-30|Using discount rates ranging from 10.0% to 11.0%
+terminal_growth|2.5|3.5|Goldman Sachs|dcf|T|-|-|rates ranging from 2.5% to 3.5%
+implied_multiple|8.0|10.5|Goldman Sachs|dcf|T|EBITDA|-|implied exit terminal year EBITDA multiples ranging from 8.0x to 10.5x
+value_per_share|48|64|Goldman Sachs|dcf|T|-|-|$48 to $64
+discount_rate|12.6|12.6|Goldman Sachs|pvfp|T|-|2022-09-30|an illustrative discount rate of 12.6%
+discount_rate|12.6|12.6|Goldman Sachs|pvfp|T|-|-|12.6% discount rate
+fee_total|45|45|Goldman Sachs|-|-|-|-|a transaction fee of $45 million#1
+fee_total|45|45|Goldman Sachs|-|-|-|-|a transaction fee of $45 million#2
+value_per_share|42|64|Goldman Sachs|pvfp|T|-|-|$42 to $64

@@ -1,0 +1,27 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+discount_rate|4.5|5.5|Goldman Sachs|dcf|T|-|2019-09-30|discount rates ranging from 4.5% to 5.5%#1
+exit_multiple|20.0|24.0|Goldman Sachs|dcf|T|EBITDA|-|exit terminal year EBITDA multiples ranging from 20.0x to 24.0x
+implied_growth|0.3|1.9|Goldman Sachs|dcf|T|-|-|implied perpetuity growth rates ranging from 0.3% to 1.9%
+value_per_share|55.75|71.86|Goldman Sachs|dcf|T|-|-|$55.75 to $71.86
+discount_rate|4.5|5.5|Goldman Sachs|dcf|A|-|2019-09-30|discount rates ranging from 4.5% to 5.5%#2
+exit_multiple|23.0|27.0|Goldman Sachs|dcf|A|EBITDA|-|exit terminal year EBITDA multiples ranging from 23.0x to 27.0x
+implied_growth|1.0|2.4|Goldman Sachs|dcf|A|-|-|implied perpetuity growth rates ranging from 1.0% to 2.4%
+value_per_share|82.44|104.30|Goldman Sachs|dcf|A|-|-|$82.44 to $104.30
+discount_rate|5.5|5.5|Goldman Sachs|pvfp|T|-|2019-09-30|by a discount rate of 5.5%#1
+value_per_share|44.69|60.18|Goldman Sachs|pvfp|T|-|-|$44.69 to $60.18
+discount_rate|5.5|5.5|Goldman Sachs|pvfp|A|-|2019-09-30|by a discount rate of 5.5%#2
+value_per_share|78.02|99.93|Goldman Sachs|pvfp|A|-|-|$78.02 to $99.93
+discount_rate|5.5|5.5|Goldman Sachs|pvfp|P|-|2019-09-30|by a discount rate of 5.5%#3
+value_per_share|53.36|68.28|Goldman Sachs|pvfp|P|-|-|$53.36 to $68.28
+fee_total|30|30|Goldman Sachs|-|-|-|-|approximately $30 million
+exit_multiple|18.8|22.8|Citi|dcf|T|EBITDA|-|multiples of 18.8x to 22.8x
+discount_rate|5.72|6.52|Citi|dcf|T|-|2019-09-30|using discount rates ranging from 5.72% to 6.52%
+exit_multiple|22.1|26.1|Citi|dcf|A|EBITDA|-|Adjusted EBITDA multiples of 22.1x to 26.1x#1
+discount_rate|6.44|7.38|Citi|dcf|A|-|2019-09-30|using discount rates ranging from 6.44% to 7.38%#1
+exit_multiple|22.1|26.1|Citi|dcf|P|EBITDA|-|Adjusted EBITDA multiples of 22.1x to 26.1x#2
+discount_rate|6.44|7.38|Citi|dcf|P|-|2019-09-30|using discount rates ranging from 6.44% to 7.38%#2
+fee_total|20|20|Citi|-|-|-|-|an aggregate fee of approximately $20 million
+value_per_share|48.95|63.37|Citi|dcf|T|-|-|$48.95 to $63.37#1
+value_per_share|70.18|89.53|Citi|dcf|A|-|-|$70.18 to $89.53
+value_per_share|49.28|62.78|Citi|dcf|P|-|-|$49.28 to $62.78
+value_per_share|48.95|63.37|Citi|dcf|T|-|-|$48.95 to $63.37#2

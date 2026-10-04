@@ -1,0 +1,74 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+exit_multiple|7.5|9.5|BofA Securities|dcf|T|EBITDA|-|terminal forward multiples of 7.5x to 9.5x#1
+discount_rate|7.25|9.00|BofA Securities|dcf|T|-|2015-09-30|discount rates ranging from 7.25% to 9.00%#1
+terminal_growth|1.00|3.00|BofA Securities|dcf|P|-|-|perpetuity growth rates of 1.00% to 3.00%
+discount_rate|7.25|9.00|BofA Securities|dcf|T|-|2015-09-30|discount rates ranging from 7.25% to 9.00%#2
+discount_rate|6.00|8.00|BofA Securities|dcf|T|-|2015-09-30|discount rates ranging from 6.00% to 8.00%#1
+exit_multiple|7.5|9.5|BofA Securities|dcf|A|EBITDA|-|terminal forward multiples of 7.5x to 9.5x#2
+discount_rate|6.50|8.00|BofA Securities|dcf|A|-|2015-09-30|discount rates ranging from 6.50% to 8.00%
+discount_rate|6.00|8.00|BofA Securities|dcf|A|-|2015-09-30|discount rates ranging from 6.00% to 8.00%#2
+exit_multiple|9.5|9.5|BofA Securities|dcf|A|-|-|a terminal forward multiple of 9.5x#1
+discount_rate|6.50|6.50|BofA Securities|dcf|A|-|-|a discount rate of 6.50%#1
+exit_multiple|8.5|8.5|BofA Securities|dcf|A|-|-|a terminal forward multiple of 8.5x#1
+discount_rate|7.25|7.25|BofA Securities|dcf|A|-|-|a discount rate of 7.25%#1
+exit_multiple|7.5|7.5|BofA Securities|dcf|A|-|-|a terminal forward multiple of 7.5x#1
+discount_rate|8.00|8.00|BofA Securities|dcf|A|-|-|a discount rate of 8.00%#1
+exit_multiple|9.5|9.5|BofA Securities|dcf|A|-|-|a terminal forward multiple of 9.5x#2
+discount_rate|6.50|6.50|BofA Securities|dcf|A|-|-|a discount rate of 6.50%#2
+exit_multiple|7.5|7.5|BofA Securities|dcf|T|-|-|a terminal forward multiple of 7.5x#2
+discount_rate|9.00|9.00|BofA Securities|dcf|T|-|-|a discount rate of 9.00%#1
+exit_multiple|8.5|8.5|BofA Securities|dcf|A|-|-|a terminal forward multiple of 8.5x#2
+discount_rate|7.25|7.25|BofA Securities|dcf|A|-|-|a discount rate of 7.25%#2
+exit_multiple|8.5|8.5|BofA Securities|dcf|T|-|-|a terminal forward multiple of 8.5x#3
+discount_rate|8.13|8.13|BofA Securities|dcf|T|-|-|a discount rate of 8.13%
+exit_multiple|7.5|7.5|BofA Securities|dcf|A|-|-|a terminal forward multiple of 7.5x#3
+discount_rate|8.00|8.00|BofA Securities|dcf|A|-|-|a discount rate of 8.00%#2
+exit_multiple|9.5|9.5|BofA Securities|dcf|T|-|-|a terminal forward multiple of 9.5x#3
+discount_rate|7.25|7.25|BofA Securities|dcf|T|-|-|a discount rate of 7.25%#3
+terminal_growth|1.00|1.00|BofA Securities|dcf|P|-|-|perpetuity growth rates of 1.00%, 2.00% and 3.00%
+terminal_growth|2.00|2.00|BofA Securities|dcf|P|-|-|perpetuity growth rates of 1.00%, 2.00% and 3.00%
+terminal_growth|3.00|3.00|BofA Securities|dcf|P|-|-|perpetuity growth rates of 1.00%, 2.00% and 3.00%
+discount_rate|9.00|9.00|BofA Securities|dcf|P|-|-|discount rates of 9.00%, 8.13% and 7.25%
+discount_rate|8.13|8.13|BofA Securities|dcf|P|-|-|discount rates of 9.00%, 8.13% and 7.25%
+discount_rate|7.25|7.25|BofA Securities|dcf|P|-|-|discount rates of 9.00%, 8.13% and 7.25%
+discount_rate|12|12|BofA Securities|pvfp|T|-|2016-01-22|at a 12% cost of equity
+discount_rate|10.3|10.3|BofA Securities|pvfp|A|-|2016-01-22|at a 10.3% cost of equity
+fee_total|16|16|BofA Securities|-|-|-|-|an aggregate fee of $16 million
+fee_opinion|1.5|1.5|BofA Securities|-|-|-|-|$1.5 million was paid in connection with its opinion
+fee_contingent|14.5|14.5|BofA Securities|-|-|-|-|$14.5 million of which is contingent upon the completion of the merger
+terminal_growth|1.5|2.5|RBC Capital Markets|dcf|T|-|-|selected range of perpetuity growth rates of 1.5% to 2.5%#1
+discount_rate|8.0|9.0|RBC Capital Markets|dcf|T|-|2015-12-31|selected range of discount rates of 8.0% to 9.0%#1
+terminal_growth|1.5|2.5|RBC Capital Markets|dcf|A|-|-|selected range of perpetuity growth rates of 1.5% to 2.5%#2
+discount_rate|8.0|9.0|RBC Capital Markets|dcf|A|-|2015-12-31|selected range of discount rates of 8.0% to 9.0%#2
+discount_rate|13.2|14.2|RBC Capital Markets|dcf|P|-|2015-12-31|selected range of cost of equity of 13.2% to 14.2%
+value_per_share|16.74|22.64|RBC Capital Markets|dcf|T|-|-|$16.74 to $22.64
+value_per_share|19.77|25.70|RBC Capital Markets|dcf|T|-|-|$19.77 to $25.70
+value_per_share|17.37|20.98|RBC Capital Markets|dcf|P|-|-|$17.37 to $20.98
+value_per_share|20.32|23.96|RBC Capital Markets|dcf|P|-|-|$20.32 to $23.96
+value_per_share|16.78|26.77|RBC Capital Markets|dcf|T|-|-|$16.78 to $26.77
+value_per_share|43.14|68.62|RBC Capital Markets|dcf|A|-|-|$43.14 to $68.62
+fee_total|17|17|RBC Capital Markets|-|-|-|-|an aggregate fee of $17 million
+fee_contingent|16|16|RBC Capital Markets|-|-|-|-|$16 million is contingent upon consummation of the merger
+discount_rate|7.9|8.9|Goldman Sachs|dcf|T|-|2015-12-31|discount rates ranging from 7.9% to 8.9%
+terminal_growth|-1.5|1.5|Goldman Sachs|dcf|T|-|-|perpetuity growth rates ranging from (1.5)% to 1.5%#1
+value_per_share|11.36|23.45|Goldman Sachs|dcf|T|-|-|$11.36 to $23.45
+discount_rate|7.4|8.4|Goldman Sachs|dcf|A|-|2015-12-31|discount rates ranging from 7.4% to 8.4%
+terminal_growth|-1.5|1.5|Goldman Sachs|dcf|A|-|-|perpetuity growth rates ranging from (1.5)% to 1.5%#2
+value_per_share|33.31|71.74|Goldman Sachs|dcf|A|-|-|$33.31 to $71.74
+discount_rate|7.6|8.6|Goldman Sachs|dcf|P|-|2015-12-31|discount rates ranging from 7.6% to 8.6%
+terminal_growth|-1.5|1.5|Goldman Sachs|dcf|P|-|-|perpetuity growth rates ranging from (1.5)% to 1.5%#3
+value_per_share|16.20|23.90|Goldman Sachs|dcf|P|-|-|$16.20 to $23.90
+value_per_share|18.04|25.23|Goldman Sachs|dcf|P|-|-|$18.04 to $25.23
+discount_rate|10.2|14.2|Goldman Sachs|pvfp|T|-|2016-01-25|illustrative discount rates from 10.2% to 14.2%#1
+value_per_share|16.37|21.69|Goldman Sachs|pvfp|T|-|-|$16.37 to $21.69
+discount_rate|10.2|14.2|Goldman Sachs|pvfp|T|-|2016-01-25|illustrative discount rates from 10.2% to 14.2%#2
+value_per_share|18.73|26.76|Goldman Sachs|pvfp|T|-|-|$18.73 to $26.76
+discount_rate|9.2|13.2|Goldman Sachs|pvfp|A|-|2016-01-25|illustrative discount rates from 9.2% to 13.2%#1
+value_per_share|39.74|54.58|Goldman Sachs|pvfp|A|-|-|$39.74 to $54.58
+discount_rate|9.2|13.2|Goldman Sachs|pvfp|A|-|2016-01-25|illustrative discount rates from 9.2% to 13.2%#2
+value_per_share|53.73|76.71|Goldman Sachs|pvfp|A|-|-|$53.73 to $76.71
+discount_rate|9.7|13.7|Goldman Sachs|pvfp|P|-|2016-01-25|illustrative discount rates from 9.7% to 13.7%#1
+value_per_share|20.72|23.52|Goldman Sachs|pvfp|P|-|-|$20.72 to $23.52
+discount_rate|9.7|13.7|Goldman Sachs|pvfp|P|-|2016-01-25|illustrative discount rates from 9.7% to 13.7%#2
+fee_total|10|10|Goldman Sachs|-|-|-|-|a transaction fee of $10 million
+value_per_share|20.89|25.58|Goldman Sachs|pvfp|P|-|-|$20.89 to $25.58

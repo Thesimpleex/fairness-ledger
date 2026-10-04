@@ -1,0 +1,10 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|93.50|93.50|-|-|-|-|-|except the right to receive $93.50 per share in cash#1
+discount_rate|9.25|11.25|Centerview|dcf|T|-|2019-12-30|using discount rates ranging from 9.25% to 11.25%
+terminal_growth|1.5|2.5|Centerview|dcf|T|-|-|perpetuity growth rates ranging from 1.5% to 2.5%
+fee_total|21.8|21.8|Centerview|-|-|-|-|an aggregate fee of approximately $21.8 million
+fee_opinion|4.5|4.5|Centerview|-|-|-|-|$4.5 million of which was payable in connection with the rendering of Centerview's opinions
+fee_contingent|17.3|17.3|Centerview|-|-|-|-|$17.3 million of which is payable contingent upon consummation of the merger
+terminal_growth|1.50|2.50|Wells Fargo|dcf|T|-|-|perpetuity growth rates ranging from 1.50% to 2.50%
+discount_rate|9.50|11.50|Wells Fargo|dcf|T|-|-|discount rates ranging from 9.50% to 11.50%
+value_per_share|80.50|124.75|Centerview|dcf|T|-|-|$80.50 to $124.75

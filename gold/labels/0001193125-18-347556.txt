@@ -1,0 +1,23 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+discount_rate|10.0|13.0|KBW|dcf|T|-|-|assumed discount rates ranging from 10.0% to 13.0%#1
+exit_multiple|13.0|17.0|KBW|dcf|T|P/E|-|a range of 13.0x to 17.0x estimated 2024 net income#1
+value_per_share|20.18|25.82|KBW|dcf|T|-|-|$20.18 per share to $25.82 per share
+discount_rate|10.0|13.0|KBW|dcf|A|-|-|assumed discount rates ranging from 10.0% to 13.0%#2
+exit_multiple|13.0|17.0|KBW|dcf|A|P/E|-|a range of 13.0x to 17.0x estimated 2024 net income#2
+value_per_share|74.56|101.85|KBW|dcf|A|-|-|$74.56 per share to $101.85 per share
+fee_opinion|1.0|1.0|KBW|-|-|-|-|$1,000,000 of which became payable upon the rendering of KBW's opinion
+exit_multiple|15.0|20.0|Sandler O'Neill|ddm|T|P/E|-|multiples ranging from 15.0x to 20.0x
+discount_rate|8.0|12.0|Sandler O'Neill|ddm|T|-|-|different discount rates ranging from 8.0% to 12.0%
+exit_multiple|15.0|20.0|Sandler O'Neill|ddm|T|P/E|-|multiples range of 15.0x to 20.0x
+discount_rate|10.84|10.84|Sandler O'Neill|ddm|T|-|-|a discount rate of 10.84%#1
+exit_multiple|15.0|21.0|Sandler O'Neill|ddm|A|P/E|-|multiples ranging from 15.0x to 21.0x
+discount_rate|7.0|12.0|Sandler O'Neill|ddm|A|-|-|different discount rates ranging from 7.0% to 12.0%
+exit_multiple|15.0|21.0|Sandler O'Neill|ddm|A|P/E|-|multiples range of 15.0x to 21.0x
+discount_rate|10.84|10.84|Sandler O'Neill|ddm|A|-|-|a discount rate of 10.84%#2
+value_per_share|13.18|19.36|Sandler O'Neill|ddm|T|-|-|$13.18 to $19.36
+value_per_share|17.14|25.98|Sandler O'Neill|ddm|T|-|-|$17.14 to $25.98
+value_per_share|21.42|32.30|Sandler O'Neill|ddm|T|-|-|$21.42 to $32.30
+value_per_share|18.83|28.68|Sandler O'Neill|ddm|T|-|-|$18.83 to $28.68
+value_per_share|65.81|109.55|Sandler O'Neill|ddm|A|-|-|$65.81 to $109.55
+value_per_share|59.59|121.81|Sandler O'Neill|ddm|A|-|-|$59.59 to $121.81
+fee_opinion|1.5|1.5|Sandler O'Neill|-|-|-|-|a fee of $1.5 million for rendering its opinion

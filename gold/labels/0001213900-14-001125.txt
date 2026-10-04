@@ -1,0 +1,6 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|2.22|2.22|-|-|-|-|-|right to receive $2.22 in cash
+terminal_growth|3.0|4.0|BofA Securities|dcf|T|-|-|perpetuity growth rates of 3.0% to 4.0%
+discount_rate|17.5|19.5|BofA Securities|dcf|T|-|2013-12-31|using discount rates ranging from 17.5% to 19.5%
+fee_total|2.4|2.4|BofA Securities|-|-|-|-|an aggregate fee currently estimated to be approximately $2.4 million
+fee_opinion|0.75|0.75|BofA Securities|-|-|-|-|$750,000 of which was payable upon rendering its opinion

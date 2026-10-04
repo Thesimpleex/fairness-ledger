@@ -1,0 +1,7 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+terminal_growth|3.0|4.0|Evercore|dcf|T|-|-|a perpetuity growth rate, based on its professional judgment given the nature of Nutrisystem and its business and industry, of 3.0% to 4.0%
+discount_rate|9.5|10.5|Evercore|dcf|T|-|2018-09-30|a discount rate of 9.5% to 10.5%
+discount_rate|10.5|10.5|Evercore|pvfp|T|-|2018-09-30|a discount rate of 10.50%
+discount_rate|10.5|10.5|Evercore|pvfp|T|-|-|the same discount rate of 10.5%
+fee_opinion|1.5|1.5|Evercore|-|-|-|-|a fee of $1.5 million was payable to Evercore upon the delivery of its opinion
+fee_contingent|16.4|16.4|Evercore|-|-|-|-|approximately $16.4 million, following the consummation of the Merger

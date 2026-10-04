@@ -1,0 +1,8 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+offer_price|60.00|60.00|-|-|-|-|-|Bidco will pay U.S.$60.00 in cash
+terminal_growth|2.5|3.5|Morgan Stanley|dcf|T|-|-|perpetual growth rates ranging from 2.5% to 3.5%
+discount_rate|9.5|10.5|Morgan Stanley|dcf|T|-|2016-07-26|at discount rates ranging from 9.5% to 10.5%
+discount_rate|10.0|10.0|Morgan Stanley|pvfp|T|-|-|at a rate of 10.0%
+fee_total|33.3|33.3|Morgan Stanley|-|-|-|-|a fee of approximately U.S.$33.3 million
+fee_opinion|1.5|1.5|Morgan Stanley|-|-|-|-|U.S.$1.5 million of which was payable upon the rendering of its opinion
+fee_contingent|31.8|31.8|Morgan Stanley|-|-|-|-|approximately U.S.$31.8 million of which is contingent upon the consummation of the Acquisition

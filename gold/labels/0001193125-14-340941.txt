@@ -1,0 +1,2 @@
+# field|low|high|advisor|analysis|subject|metric|valuation_date|quote[#k]
+# No fairness-opinion valuation disclosure in this filing: nothing to label.
