@@ -92,6 +92,7 @@ The released dataset is in `data/release/` (`facts.parquet`, `filings.csv`; `fai
 
 ```python
 from fairness_ledger.dataset import load
+
 facts = load()
 facts[facts.field == "discount_rate"].groupby("advisor").low.median()
 ```
