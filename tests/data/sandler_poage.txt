@@ -1,0 +1,56 @@
+# source: SEC accession 0001571049-18-000479 (public filing); verbatim excerpts, headings as in the filing
+## Opinion of Poage's Financial Advisor
+## Net Present Value Analysis
+To approximate the terminal value per Poage common share at December 31, 2022, Sandler O'Neill applied price to 2022 earnings per share multiples ranging from 13.0x to 18.0x and price to December 31, 2022 tangible book value per share multiples ranging from 120% to 170%. The terminal values were then discounted to present values using different discount rates ranging from 11.0% to 15.0% which were chosen to reflect different assumptions regarding required rates of return of holders or prospective buyers of Poage common stock. As illustrated in the following tables, the analysis indicated an imputed range of per share values of Poage common stock of $8.34 to $13.23 when applying multiples of earnings per share and $13.85 to $22.74 when applying multiples of tangible book value per share. 
+Imputed Present Values per Share Based on Earnings Per Share Multiples:
+Discount Rate 
+ |  | 
+13.0x 
+ |  | 
+14.0x 
+ |  | 
+15.0x 
+ |  | 
+16.0x 
+ |  | 
+17.0x 
+ |  | 
+18.0x 
+ 
+11.0% 
+ |  |  | $ | 9.80 |  |  |  |  | $ | 10.49 |  |  |  |  | $ | 11.18 |  |  |  |  | $ | 11.86 |  |  |  |  | $ | 12.55 |  |  |  |  | $ | 13.23 |  |  
+12.0% 
+ |  |  | $ | 9.41 |  |  |  |  | $ | 10.07 |  |  |  |  | $ | 10.73 |  |  |  |  | $ | 11.38 |  |  |  |  | $ | 12.04 |  |  |  |  | $ | 12.70 |  |  
+13.0% 
+ |  |  | $ | 9.04 |  |  |  |  | $ | 9.67 |  |  |  |  | $ | 10.30 |  |  |  |  | $ | 10.93 |  |  |  |  | $ | 11.56 |  |  |  |  | $ | 12.19 |  |  
+14.0% 
+ |  |  | $ | 8.68 |  |  |  |  | $ | 9.29 |  |  |  |  | $ | 9.89 |  |  |  |  | $ | 10.50 |  |  |  |  | $ | 11.10 |  |  |  |  | $ | 11.70 |  |  
+15.0% 
+ |  |  | $ | 8.34 |  |  |  |  | $ | 8.92 |  |  |  |  | $ | 9.50 |  |  |  |  | $ | 10.08 |  |  |  |  | $ | 10.66 |  |  |  |  | $ | 11.24 |  |  
+Imputed Present Values per Share Based on Tangible Book Per Share Multiples:
+Discount Rate 
+ |  | 
+120% 
+ |  | 
+130% 
+ |  | 
+140% 
+ |  | 
+150% 
+ |  | 
+160% 
+ |  | 
+170% 
+ 
+11.0% 
+ |  |  | $ | 16.31 |  |  |  |  | $ | 17.60 |  |  |  |  | $ | 18.88 |  |  |  |  | $ | 20.17 |  |  |  |  | $ | 21.45 |  |  |  |  | $ | 22.74 |  |  
+12.0% 
+ |  |  | $ | 15.65 |  |  |  |  | $ | 16.88 |  |  |  |  | $ | 18.11 |  |  |  |  | $ | 19.34 |  |  |  |  | $ | 20.58 |  |  |  |  | $ | 21.81 |  |  
+13.0% 
+ |  |  | $ | 15.02 |  |  |  |  | $ | 16.20 |  |  |  |  | $ | 17.38 |  |  |  |  | $ | 18.56 |  |  |  |  | $ | 19.74 |  |  |  |  | $ | 20.92 |  |  
+14.0% 
+ |  |  | $ | 14.42 |  |  |  |  | $ | 15.55 |  |  |  |  | $ | 16.68 |  |  |  |  | $ | 17.81 |  |  |  |  | $ | 18.95 |  |  |  |  | $ | 20.08 |  |  
+15.0% 
+ |  |  | $ | 13.85 |  |  |  |  | $ | 14.93 |  |  |  |  | $ | 16.02 |  |  |  |  | $ | 17.10 |  |  |  |  | $ | 18.19 |  |  |  |  | $ | 19.28 |  |  
+Sandler O'Neill also considered and discussed with the Poage board of directors how this analysis would be affected by changes in the underlying assumptions, including variations with respect to net income. To illustrate this impact, Sandler O'Neill performed a similar analysis assuming Poage's net income varied from 15% above projections to 15% below projections. This analysis resulted in the following range of per share values for Poage common stock, applying the price to 2022 earnings per share multiples range of 13.0x to 18.0x referred to above and a discount rate of 12.68%.
+Sandler O'Neill's Relationship. Sandler O'Neill acted as financial advisor to Poage in connection with the Merger. Poage has agreed to pay Sandler O'Neill a transaction fee in an amount equal to 1.25% of the aggregate merger consideration, which transaction fee is contingent upon consummation of the Merger. At the time of announcement, based on City's closing stock price of $79.30 as of July 10, 2018, Sandler O'Neill's transaction fee was estimated to be approximately $1.2 million. Sandler O'Neill also received a $250,000 fee upon rendering its fairness opinion to the Poage board of directors, which opinion fee will be credited in full towards the transaction fee becoming payable to Sandler O'Neill upon closing of the Merger. Poage has also agreed to indemnify Sandler O'Neill against certain claims and liabilities arising out of its engagement and to reimburse Sandler O'Neill for certain of its out-of-pocket expenses incurred in connection with its engagement.
