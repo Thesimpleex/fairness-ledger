@@ -1,0 +1,1419 @@
+{
+ "analyses": {
+  "advisor_table": [
+   {
+    "advisor": "Goldman Sachs",
+    "deals": 207,
+    "discount_mid": 9.98,
+    "growth_mid": 2.5,
+    "width": 1.5
+   },
+   {
+    "advisor": "J.P. Morgan",
+    "deals": 147,
+    "discount_mid": 10.0,
+    "growth_mid": 2.5,
+    "width": 1.0
+   },
+   {
+    "advisor": "Morgan Stanley",
+    "deals": 135,
+    "discount_mid": 9.125,
+    "growth_mid": 2.5,
+    "width": 1.3
+   },
+   {
+    "advisor": "BofA Securities",
+    "deals": 111,
+    "discount_mid": 10.0,
+    "growth_mid": 2.75,
+    "width": 2.0
+   },
+   {
+    "advisor": "Evercore",
+    "deals": 96,
+    "discount_mid": 10.0,
+    "growth_mid": 2.5,
+    "width": 1.0
+   },
+   {
+    "advisor": "Centerview",
+    "deals": 81,
+    "discount_mid": 10.625,
+    "growth_mid": 2.0,
+    "width": 1.75
+   },
+   {
+    "advisor": "Barclays",
+    "deals": 64,
+    "discount_mid": 10.5,
+    "growth_mid": 2.5,
+    "width": 2.0
+   },
+   {
+    "advisor": "Citi",
+    "deals": 59,
+    "discount_mid": 9.75,
+    "growth_mid": 2.0,
+    "width": 1.2
+   },
+   {
+    "advisor": "Lazard",
+    "deals": 55,
+    "discount_mid": 9.5,
+    "growth_mid": 1.7,
+    "width": 1.0
+   },
+   {
+    "advisor": "Qatalyst",
+    "deals": 54,
+    "discount_mid": 11.625,
+    "growth_mid": 3.5,
+    "width": 3.5
+   },
+   {
+    "advisor": "Jefferies",
+    "deals": 52,
+    "discount_mid": 11.75,
+    "growth_mid": 3.0,
+    "width": 1.0
+   },
+   {
+    "advisor": "Moelis",
+    "deals": 43,
+    "discount_mid": 9.75,
+    "growth_mid": 1.5,
+    "width": 2.0
+   }
+  ],
+  "bank_disagreement": {
+   "discount_rate": {
+    "max_pp": 12.0,
+    "mean_pp": 1.0631226235741447,
+    "median_ci_95": [
+     0.5243750000000004,
+     0.75
+    ],
+    "median_pp": 0.7000000000000002,
+    "n_deals": 356,
+    "n_pairs": 526,
+    "p25_pp": 0.27500000000000036,
+    "p75_pp": 1.5,
+    "share_ge_1pp": 0.3916349809885932,
+    "share_ge_2pp": 0.16730038022813687
+   },
+   "terminal_growth": {
+    "max_pp": 10.5,
+    "mean_pp": 0.6717500000000001,
+    "median_ci_95": [
+     0.25,
+     0.5
+    ],
+    "median_pp": 0.375,
+    "n_deals": 124,
+    "n_pairs": 180,
+    "p25_pp": 0.0,
+    "p75_pp": 1.0,
+    "share_ge_1pp": 0.2722222222222222,
+    "share_ge_2pp": 0.08888888888888889
+   }
+  },
+  "bank_disagreement_single_range_only": {
+   "discount_rate": {
+    "max_pp": 12.0,
+    "mean_pp": 0.9918256578947368,
+    "median_ci_95": [
+     0.5,
+     0.75
+    ],
+    "median_pp": 0.6000000000000014,
+    "n_deals": 214,
+    "n_pairs": 304,
+    "p25_pp": 0.25,
+    "p75_pp": 1.25,
+    "share_ge_1pp": 0.3618421052631579,
+    "share_ge_2pp": 0.14144736842105263
+   },
+   "terminal_growth": {
+    "max_pp": 10.5,
+    "mean_pp": 0.5480357142857143,
+    "median_ci_95": [
+     0.0,
+     0.5
+    ],
+    "median_pp": 0.25,
+    "n_deals": 98,
+    "n_pairs": 140,
+    "p25_pp": 0.0,
+    "p75_pp": 0.75,
+    "share_ge_1pp": 0.22857142857142856,
+    "share_ge_2pp": 0.05714285714285714
+   }
+  },
+  "gormsen_huber_reference": {
+   "citation": "Gormsen, N. J. and Huber, K. (2024), Corporate Discount Rates, NBER Working Paper 31329 (June 2023, revised June 2024).",
+   "comparability": "Different object: managers' within-firm discount rates against their perceived cost of capital on earnings calls, at multi-year horizons. This repository relates deal-level fairness-opinion discount rates to the ten-year Treasury yield at filing.",
+   "long_run_pp": 0.7,
+   "short_run_pp": 0.25,
+   "statement": "Within firms, a 1 percentage point increase in the perceived cost of capital raises discount rates by about 0.25 percentage points over 3 to 4 years and by about 0.7 percentage points over 7 to 11 years (paper, introduction)."
+  },
+  "implied_growth": {
+   "bounds": {
+    "3": {
+     "high_end_above": 57,
+     "high_end_ci_95": [
+      0.5174573253344068,
+      0.7120884294016401
+     ],
+     "high_end_share": 0.6195652173913043,
+     "midpoint_above": 34,
+     "midpoint_ci_95": [
+      0.2780163401233967,
+      0.47157010925546106
+     ],
+     "midpoint_share": 0.3695652173913043,
+     "n_covered": 92
+    },
+    "4": {
+     "high_end_above": 42,
+     "high_end_ci_95": [
+      0.35852667216525175,
+      0.5580021442943673
+     ],
+     "high_end_share": 0.45652173913043476,
+     "midpoint_above": 24,
+     "midpoint_ci_95": [
+      0.18202221087474602,
+      0.35888627965316
+     ],
+     "midpoint_share": 0.2608695652173913,
+     "n_covered": 92
+    },
+    "5": {
+     "high_end_above": 30,
+     "high_end_ci_95": [
+      0.23894787729606798,
+      0.42716738854240904
+     ],
+     "high_end_share": 0.32608695652173914,
+     "midpoint_above": 20,
+     "midpoint_ci_95": [
+      0.14536729601981696,
+      0.3120700109677083
+     ],
+     "midpoint_share": 0.21739130434782608,
+     "n_covered": 92
+    },
+    "6": {
+     "high_end_above": 23,
+     "high_end_ci_95": [
+      0.17275255342528545,
+      0.3472881412175253
+     ],
+     "high_end_share": 0.25,
+     "midpoint_above": 10,
+     "midpoint_ci_95": [
+      0.06012152356953175,
+      0.18863782456704176
+     ],
+     "midpoint_share": 0.10869565217391304,
+     "n_covered": 92
+    }
+   },
+   "coverage": 0.058301647655259824,
+   "coverage_ci_95": [
+    0.04777775032786613,
+    0.07097084977567082
+   ],
+   "implied_growth_median_high_pct": 3.9,
+   "n_exit_multiple_dcfs": 1578,
+   "n_with_disclosed_implied_growth": 92
+  },
+  "market_practice": {
+   "financials_excluded": 254,
+   "growth_pass_through": {
+    "ci_95_year_block_bootstrap": [
+     -0.25073355270302555,
+     0.05092310827623928
+    ],
+    "n": 687,
+    "slope_pp_per_pp": -0.10519555462743665
+   },
+   "n_deals": 1219,
+   "n_deals_with_growth": 687,
+   "pass_through": {
+    "pooled": {
+     "ci_95_year_block_bootstrap": [
+      0.30991848308297026,
+      0.7729293552623945
+     ],
+     "n": 1219,
+     "slope_pp_per_pp": 0.5960859089205087
+    },
+    "sic2_fixed_effects": {
+     "ci_95_year_block_bootstrap": [
+      0.2866670350063047,
+      0.8004721012618355
+     ],
+     "n": 1211,
+     "slope_pp_per_pp": 0.601538078297804
+    }
+   }
+  },
+  "market_practice_by_year": [
+   {
+    "discount_median": 11.25,
+    "discount_q25": 9.59375,
+    "discount_q75": 14.5,
+    "growth_median": 2.5,
+    "growth_n": 25,
+    "n": 60,
+    "y10_mean": 1.7881666667,
+    "year": 2012
+   },
+   {
+    "discount_median": 11.25,
+    "discount_q25": 9.5,
+    "discount_q75": 13.4,
+    "growth_median": 2.25,
+    "growth_n": 34,
+    "n": 77,
+    "y10_mean": 2.3718181818,
+    "year": 2013
+   },
+   {
+    "discount_median": 10.5,
+    "discount_q25": 9.40625,
+    "discount_q75": 12.5,
+    "growth_median": 2.5,
+    "growth_n": 36,
+    "n": 78,
+    "y10_mean": 2.4673076923,
+    "year": 2014
+   },
+   {
+    "discount_median": 10.0,
+    "discount_q25": 8.9925,
+    "discount_q75": 11.4375,
+    "growth_median": 3.0,
+    "growth_n": 41,
+    "n": 74,
+    "y10_mean": 2.1237837838,
+    "year": 2015
+   },
+   {
+    "discount_median": 9.9625,
+    "discount_q25": 8.425,
+    "discount_q75": 11.88625,
+    "growth_median": 2.5,
+    "growth_n": 62,
+    "n": 102,
+    "y10_mean": 1.8007843137,
+    "year": 2016
+   },
+   {
+    "discount_median": 9.5,
+    "discount_q25": 8.25,
+    "discount_q75": 11.5,
+    "growth_median": 2.5,
+    "growth_n": 58,
+    "n": 97,
+    "y10_mean": 2.317628866,
+    "year": 2017
+   },
+   {
+    "discount_median": 10.375,
+    "discount_q25": 9.0,
+    "discount_q75": 12.225,
+    "growth_median": 2.3125,
+    "growth_n": 58,
+    "n": 98,
+    "y10_mean": 2.9170408163,
+    "year": 2018
+   },
+   {
+    "discount_median": 9.85,
+    "discount_q25": 8.5,
+    "discount_q75": 12.4375,
+    "growth_median": 2.25,
+    "growth_n": 46,
+    "n": 90,
+    "y10_mean": 2.131,
+    "year": 2019
+   },
+   {
+    "discount_median": 10.16875,
+    "discount_q25": 8.7125,
+    "discount_q75": 11.1875,
+    "growth_median": 2.5,
+    "growth_n": 30,
+    "n": 56,
+    "y10_mean": 1.00875,
+    "year": 2020
+   },
+   {
+    "discount_median": 10.0,
+    "discount_q25": 8.5,
+    "discount_q75": 12.0,
+    "growth_median": 2.6875,
+    "growth_n": 72,
+    "n": 110,
+    "y10_mean": 1.4200909091,
+    "year": 2021
+   },
+   {
+    "discount_median": 10.5,
+    "discount_q25": 9.015625,
+    "discount_q75": 12.5,
+    "growth_median": 2.75,
+    "growth_n": 59,
+    "n": 94,
+    "y10_mean": 2.9556382979,
+    "year": 2022
+   },
+   {
+    "discount_median": 12.1375,
+    "discount_q25": 9.925,
+    "discount_q75": 13.2125,
+    "growth_median": 2.5,
+    "growth_n": 45,
+    "n": 74,
+    "y10_mean": 3.9452702703,
+    "year": 2023
+   },
+   {
+    "discount_median": 11.875,
+    "discount_q25": 10.5,
+    "discount_q75": 13.7875,
+    "growth_median": 2.5,
+    "growth_n": 66,
+    "n": 110,
+    "y10_mean": 4.2307272727,
+    "year": 2024
+   },
+   {
+    "discount_median": 12.0,
+    "discount_q25": 10.0,
+    "discount_q75": 13.6875,
+    "growth_median": 2.5,
+    "growth_n": 55,
+    "n": 99,
+    "y10_mean": 4.2451515152,
+    "year": 2025
+   }
+  ],
+  "nominal_growth_bound_pct": 4.0,
+  "nuvasive_example": {
+   "deal_id": "0001193125-23-082262",
+   "facts": [
+    {
+     "advisor": "BofA Securities",
+     "field": "exit_multiple",
+     "high": 11.5,
+     "low": 9.5,
+     "subject": "target"
+    },
+    {
+     "advisor": "BofA Securities",
+     "field": "implied_growth",
+     "high": 6.4,
+     "low": 5.2,
+     "subject": "target"
+    },
+    {
+     "advisor": "BofA Securities",
+     "field": "discount_rate",
+     "high": 11.0,
+     "low": 9.0,
+     "subject": "target"
+    },
+    {
+     "advisor": "BofA Securities",
+     "field": "exit_multiple",
+     "high": 22.0,
+     "low": 18.0,
+     "subject": "acquirer"
+    },
+    {
+     "advisor": "BofA Securities",
+     "field": "implied_growth",
+     "high": 7.4,
+     "low": 6.0,
+     "subject": "acquirer"
+    },
+    {
+     "advisor": "BofA Securities",
+     "field": "discount_rate",
+     "high": 10.5,
+     "low": 8.5,
+     "subject": "acquirer"
+    },
+    {
+     "advisor": "BofA Securities",
+     "field": "discount_rate",
+     "high": 9.5,
+     "low": 9.5,
+     "subject": "acquirer"
+    },
+    {
+     "advisor": "BofA Securities",
+     "field": "discount_rate",
+     "high": 11.0,
+     "low": 9.0,
+     "subject": "pro_forma"
+    },
+    {
+     "advisor": "BofA Securities",
+     "field": "terminal_growth",
+     "high": 3.0,
+     "low": 2.0,
+     "subject": "target"
+    },
+    {
+     "advisor": "Goldman Sachs",
+     "field": "discount_rate",
+     "high": 9.5,
+     "low": 7.5,
+     "subject": "target"
+    },
+    {
+     "advisor": "Goldman Sachs",
+     "field": "exit_multiple",
+     "high": 11.0,
+     "low": 10.0,
+     "subject": "target"
+    },
+    {
+     "advisor": "Goldman Sachs",
+     "field": "implied_growth",
+     "high": 5.8,
+     "low": 3.4,
+     "subject": "target"
+    },
+    {
+     "advisor": "Goldman Sachs",
+     "field": "discount_rate",
+     "high": 10.0,
+     "low": 8.0,
+     "subject": "acquirer"
+    },
+    {
+     "advisor": "Goldman Sachs",
+     "field": "exit_multiple",
+     "high": 18.5,
+     "low": 16.5,
+     "subject": "acquirer"
+    },
+    {
+     "advisor": "Goldman Sachs",
+     "field": "implied_growth",
+     "high": 6.9,
+     "low": 4.6,
+     "subject": "acquirer"
+    },
+    {
+     "advisor": "Goldman Sachs",
+     "field": "discount_rate",
+     "high": 10.0,
+     "low": 8.0,
+     "subject": "pro_forma"
+    },
+    {
+     "advisor": "Goldman Sachs",
+     "field": "exit_multiple",
+     "high": 15.5,
+     "low": 13.5,
+     "subject": "pro_forma"
+    },
+    {
+     "advisor": "Goldman Sachs",
+     "field": "implied_growth",
+     "high": 6.4,
+     "low": 3.9,
+     "subject": "pro_forma"
+    }
+   ]
+  }
+ },
+ "bootstrap_draws": 2000,
+ "corpus": {
+  "advisor_attribution_share_unattributed_core": 0.0844018506278916,
+  "extraction_rejections_by_reason": {
+   "no_analysis_marker": 333,
+   "not_dcf_analysis": 5354,
+   "outside_analysis_context": 1416,
+   "outside_hard_bounds": 367,
+   "provenance:snippet_too_long": 3,
+   "provenance:value_not_reproduced_from_span": 91,
+   "reversed_range": 81,
+   "table_row": 226
+  },
+  "facts_by_field": {
+   "discount_rate": 9122,
+   "exit_multiple": 3416,
+   "fee_contingent": 672,
+   "fee_opinion": 1858,
+   "fee_total": 3492,
+   "implied_growth": 126,
+   "implied_multiple": 137,
+   "offer_price": 1413,
+   "terminal_growth": 2329,
+   "value_per_share": 6677
+  },
+  "facts_by_tier": {
+   "auxiliary": 14112,
+   "core": 15130
+  },
+  "facts_by_year": {
+   "2012": 1226,
+   "2013": 1829,
+   "2014": 1823,
+   "2015": 2015,
+   "2016": 2740,
+   "2017": 2565,
+   "2018": 2823,
+   "2019": 2608,
+   "2020": 1740,
+   "2021": 2778,
+   "2022": 1695,
+   "2023": 1574,
+   "2024": 1843,
+   "2025": 1983
+  },
+  "filing_years": [
+   2012,
+   2025
+  ],
+  "n_core_facts": 15130,
+  "n_deals": 2925,
+  "n_deals_with_core_facts": 2438,
+  "n_deals_with_facts": 2612,
+  "n_facts": 29242,
+  "n_filings": 2967,
+  "soft_flag_counts": {
+   "growth_atypical": 86,
+   "growth_ge_discount": 33,
+   "implied_growth_high": 51,
+   "multiple_atypical": 198,
+   "rate_atypical": 155
+  }
+ },
+ "data_vintage": {
+  "dgs10_last_observation": "2026-10-01",
+  "dgs10_source": "FRED series DGS10",
+  "edgar_catalog_built": "2026-10-04"
+ },
+ "generated": "2026-10-04",
+ "gold": {
+  "dev": {
+   "attributes": {
+    "advisor": {
+     "accuracy": 1.0,
+     "correct": 424,
+     "hi": 1.0,
+     "lo": 0.9910213030048965,
+     "n": 424
+    },
+    "analysis": {
+     "accuracy": 0.9442815249266863,
+     "correct": 322,
+     "hi": 0.9640426930798028,
+     "lo": 0.9146219577316582,
+     "n": 341
+    },
+    "metric": {
+     "accuracy": 0.9538461538461539,
+     "correct": 62,
+     "hi": 0.9841801595864874,
+     "lo": 0.8728615273666118,
+     "n": 65
+    },
+    "subject": {
+     "accuracy": 0.8328445747800587,
+     "correct": 284,
+     "hi": 0.8686913666896391,
+     "lo": 0.789582150584954,
+     "n": 341
+    },
+    "valuation_date": {
+     "accuracy": 1.0,
+     "correct": 63,
+     "hi": 1.0,
+     "lo": 0.9425288004111484,
+     "n": 63
+    }
+   },
+   "by_field": {
+    "discount_rate": {
+     "f1": 0.9931972789115647,
+     "fn": 2,
+     "fp": 0,
+     "precision": 1.0,
+     "precision_hi": 1.0,
+     "precision_lo": 0.9743631779153262,
+     "recall": 0.9864864864864865,
+     "recall_hi": 0.9962862503755195,
+     "recall_lo": 0.952071339958528,
+     "tp": 146
+    },
+    "exit_multiple": {
+     "f1": 0.9861111111111112,
+     "fn": 2,
+     "fp": 0,
+     "precision": 1.0,
+     "precision_hi": 1.0,
+     "precision_lo": 0.9486720478031097,
+     "recall": 0.9726027397260274,
+     "recall_hi": 0.9924542413203923,
+     "recall_lo": 0.9054985182830946,
+     "tp": 71
+    },
+    "fee_contingent": {
+     "f1": 0.9166666666666666,
+     "fn": 1,
+     "fp": 1,
+     "precision": 0.9166666666666666,
+     "precision_hi": 0.9851349055950829,
+     "precision_lo": 0.646120088858883,
+     "recall": 0.9166666666666666,
+     "recall_hi": 0.9851349055950829,
+     "recall_lo": 0.646120088858883,
+     "tp": 11
+    },
+    "fee_opinion": {
+     "f1": 0.9855072463768115,
+     "fn": 1,
+     "fp": 0,
+     "precision": 1.0,
+     "precision_hi": 0.9999999999999999,
+     "precision_lo": 0.8984854458466761,
+     "recall": 0.9714285714285714,
+     "recall_hi": 0.9949385081445556,
+     "recall_lo": 0.8546691276638632,
+     "tp": 34
+    },
+    "fee_total": {
+     "f1": 0.9887640449438202,
+     "fn": 0,
+     "fp": 1,
+     "precision": 0.9777777777777777,
+     "precision_hi": 0.9960664011171667,
+     "precision_lo": 0.8843331823158513,
+     "recall": 1.0,
+     "recall_hi": 1.0,
+     "recall_lo": 0.9197043962415192,
+     "tp": 44
+    },
+    "implied_growth": {
+     "f1": 1.0,
+     "fn": 0,
+     "fp": 0,
+     "precision": 1.0,
+     "precision_hi": 1.0,
+     "precision_lo": 0.6096657120978346,
+     "recall": 1.0,
+     "recall_hi": 1.0,
+     "recall_lo": 0.6096657120978346,
+     "tp": 6
+    },
+    "implied_multiple": {
+     "f1": 1.0,
+     "fn": 0,
+     "fp": 0,
+     "precision": 1.0,
+     "precision_hi": 1.0,
+     "precision_lo": 0.5101091635454027,
+     "recall": 1.0,
+     "recall_hi": 1.0,
+     "recall_lo": 0.5101091635454027,
+     "tp": 4
+    },
+    "offer_price": {
+     "f1": 1.0,
+     "fn": 0,
+     "fp": 0,
+     "precision": 1.0,
+     "precision_hi": 1.0,
+     "precision_lo": 0.7575059933447592,
+     "recall": 1.0,
+     "recall_hi": 1.0,
+     "recall_lo": 0.7575059933447592,
+     "tp": 12
+    },
+    "terminal_growth": {
+     "f1": 1.0,
+     "fn": 0,
+     "fp": 0,
+     "precision": 1.0,
+     "precision_hi": 0.9999999999999999,
+     "precision_lo": 0.9010990076755959,
+     "recall": 1.0,
+     "recall_hi": 0.9999999999999999,
+     "recall_lo": 0.9010990076755959,
+     "tp": 35
+    },
+    "value_per_share": {
+     "f1": 0.9575757575757576,
+     "fn": 4,
+     "fp": 3,
+     "precision": 0.9634146341463414,
+     "precision_hi": 0.9874804269184307,
+     "precision_lo": 0.8978726535639152,
+     "recall": 0.9518072289156626,
+     "recall_hi": 0.9811013844967077,
+     "recall_lo": 0.8825414079954846,
+     "tp": 79
+    }
+   },
+   "by_group": {
+    "advisor": {
+     "Barclays": {
+      "f1": 1.0,
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.4385029682449546,
+      "recall": 1.0,
+      "recall_hi": 1.0,
+      "recall_lo": 0.4385029682449546,
+      "tp": 3
+     },
+     "BofA Securities": {
+      "f1": 1.0,
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.7411670330319684,
+      "recall": 1.0,
+      "recall_hi": 1.0,
+      "recall_lo": 0.7411670330319684,
+      "tp": 11
+     },
+     "Centerview": {
+      "f1": 0.9600000000000001,
+      "fn": 1,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.7575059933447592,
+      "recall": 0.9230769230769231,
+      "recall_hi": 0.9862895787574435,
+      "recall_lo": 0.6668604907890041,
+      "tp": 12
+     },
+     "Citi": {
+      "f1": 1.0,
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 0.9999999999999999,
+      "precision_lo": 0.7719046276458016,
+      "recall": 1.0,
+      "recall_hi": 0.9999999999999999,
+      "recall_lo": 0.7719046276458016,
+      "tp": 13
+     },
+     "Evercore": {
+      "f1": 1.0,
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.7575059933447592,
+      "recall": 1.0,
+      "recall_hi": 1.0,
+      "recall_lo": 0.7575059933447592,
+      "tp": 12
+     },
+     "Goldman Sachs": {
+      "f1": 1.0,
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.9358060632812366,
+      "recall": 1.0,
+      "recall_hi": 1.0,
+      "recall_lo": 0.9358060632812366,
+      "tp": 56
+     },
+     "Houlihan Lokey": {
+      "f1": 1.0,
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.34238022750665303,
+      "recall": 1.0,
+      "recall_hi": 1.0,
+      "recall_lo": 0.34238022750665303,
+      "tp": 2
+     },
+     "J.P. Morgan": {
+      "f1": 1.0,
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.4385029682449546,
+      "recall": 1.0,
+      "recall_hi": 1.0,
+      "recall_lo": 0.4385029682449546,
+      "tp": 3
+     },
+     "KBW": {
+      "f1": 0.972972972972973,
+      "fn": 2,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.9035813714055363,
+      "recall": 0.9473684210526315,
+      "recall_hi": 0.9854457918527075,
+      "recall_lo": 0.8271453786822962,
+      "tp": 36
+     },
+     "Lazard": {
+      "f1": 1.0,
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.7411670330319684,
+      "recall": 1.0,
+      "recall_hi": 1.0,
+      "recall_lo": 0.7411670330319684,
+      "tp": 11
+     },
+     "Morgan Stanley": {
+      "f1": 0.8,
+      "fn": 1,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.34238022750665303,
+      "recall": 0.6666666666666666,
+      "recall_hi": 0.9385080552796037,
+      "recall_lo": 0.2076596008020477,
+      "tp": 2
+     },
+     "Piper Sandler": {
+      "f1": 1.0,
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.9123783988027135,
+      "recall": 1.0,
+      "recall_hi": 1.0,
+      "recall_lo": 0.9123783988027135,
+      "tp": 40
+     },
+     "RBC Capital Markets": {
+      "f1": 1.0,
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.9299533801014687,
+      "recall": 1.0,
+      "recall_hi": 1.0,
+      "recall_lo": 0.9299533801014687,
+      "tp": 51
+     }
+    },
+    "era": {
+     "2012-2014": {
+      "f1": 0.967741935483871,
+      "fn": 2,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 0.9999999999999999,
+      "precision_lo": 0.8864866068260312,
+      "recall": 0.9375,
+      "recall_hi": 0.982689432968359,
+      "recall_lo": 0.7985287685584542,
+      "tp": 30
+     },
+     "2015-2017": {
+      "f1": 0.9936305732484078,
+      "fn": 1,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.9530621902878059,
+      "recall": 0.9873417721518988,
+      "recall_hi": 0.9977620061449501,
+      "recall_lo": 0.9317242812303406,
+      "tp": 78
+     },
+     "2018-2020": {
+      "f1": 1.0,
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.9179901967742088,
+      "recall": 1.0,
+      "recall_hi": 1.0,
+      "recall_lo": 0.9179901967742088,
+      "tp": 43
+     },
+     "2021-2022": {
+      "f1": 1.0,
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.9347150988829137,
+      "recall": 1.0,
+      "recall_hi": 1.0,
+      "recall_lo": 0.9347150988829137,
+      "tp": 55
+     },
+     "2023-2025": {
+      "f1": 0.989247311827957,
+      "fn": 1,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.9229264369144198,
+      "recall": 0.9787234042553191,
+      "recall_hi": 0.996234231961403,
+      "recall_lo": 0.8888701895837066,
+      "tp": 46
+     }
+    }
+   },
+   "key_fields": {
+    "f1": 0.9921259842519685,
+    "fn": 4,
+    "fp": 0,
+    "precision": 1.0,
+    "precision_hi": 1.0,
+    "precision_lo": 0.984985002671571,
+    "recall": 0.984375,
+    "recall_hi": 0.9939074017966336,
+    "recall_lo": 0.9605207372908033,
+    "tp": 252
+   },
+   "key_fields_precision_filing_bootstrap_95": [
+    1.0,
+    1.0
+   ],
+   "n_extra": 5,
+   "n_filings": 25,
+   "n_gold": 452,
+   "n_missed": 10,
+   "n_predicted": 447,
+   "overall": {
+    "f1": 0.9833147942157953,
+    "fn": 10,
+    "fp": 5,
+    "precision": 0.9888143176733781,
+    "precision_hi": 0.9952129426096156,
+    "precision_lo": 0.9740856687982608,
+    "recall": 0.9778761061946902,
+    "recall_hi": 0.9879392085228285,
+    "recall_lo": 0.9597587062689188,
+    "tp": 442
+   },
+   "split": "dev"
+  },
+  "holdout": {
+   "attributes": {
+    "advisor": {
+     "accuracy": 0.8939393939393939,
+     "correct": 236,
+     "hi": 0.9255954301231203,
+     "lo": 0.850983374800598,
+     "n": 264
+    },
+    "analysis": {
+     "accuracy": 0.9162995594713657,
+     "correct": 208,
+     "hi": 0.9457624972919604,
+     "lo": 0.872981245558866,
+     "n": 227
+    },
+    "metric": {
+     "accuracy": 1.0,
+     "correct": 37,
+     "hi": 1.0,
+     "lo": 0.9059421741627975,
+     "n": 37
+    },
+    "subject": {
+     "accuracy": 0.7092511013215859,
+     "correct": 161,
+     "hi": 0.7644524509418504,
+     "lo": 0.6470854092212632,
+     "n": 227
+    },
+    "valuation_date": {
+     "accuracy": 0.9555555555555556,
+     "correct": 43,
+     "hi": 0.9877258732932802,
+     "lo": 0.8517248923056439,
+     "n": 45
+    }
+   },
+   "by_field": {
+    "discount_rate": {
+     "f1": 0.9377593360995851,
+     "fn": 14,
+     "fp": 1,
+     "precision": 0.9912280701754386,
+     "precision_hi": 0.9984498570602217,
+     "precision_lo": 0.9519796532398638,
+     "recall": 0.889763779527559,
+     "recall_hi": 0.9331899978211546,
+     "recall_lo": 0.8234509086033921,
+     "tp": 113
+    },
+    "exit_multiple": {
+     "f1": 0.9722222222222222,
+     "fn": 2,
+     "fp": 0,
+     "precision": 1.0,
+     "precision_hi": 0.9999999999999999,
+     "precision_lo": 0.9010990076755959,
+     "recall": 0.9459459459459459,
+     "recall_hi": 0.9850490231668423,
+     "recall_lo": 0.822953456491869,
+     "tp": 35
+    },
+    "fee_contingent": {
+     "f1": 0.5333333333333333,
+     "fn": 4,
+     "fp": 3,
+     "precision": 0.5714285714285714,
+     "precision_hi": 0.8417801447485302,
+     "precision_lo": 0.2504583645276572,
+     "recall": 0.5,
+     "recall_hi": 0.7847839377861224,
+     "recall_lo": 0.21521606221387757,
+     "tp": 4
+    },
+    "fee_opinion": {
+     "f1": 0.7058823529411765,
+     "fn": 9,
+     "fp": 1,
+     "precision": 0.9230769230769231,
+     "precision_hi": 0.9862895787574435,
+     "precision_lo": 0.6668604907890041,
+     "recall": 0.5714285714285714,
+     "recall_hi": 0.7553003107462404,
+     "recall_lo": 0.3654655436930671,
+     "tp": 12
+    },
+    "fee_total": {
+     "f1": 0.6301369863013698,
+     "fn": 23,
+     "fp": 4,
+     "precision": 0.8518518518518519,
+     "precision_hi": 0.9408407222375568,
+     "precision_lo": 0.6752131457218702,
+     "recall": 0.5,
+     "recall_hi": 0.6388106291729675,
+     "recall_lo": 0.3611893708270325,
+     "tp": 23
+    },
+    "implied_growth": {
+     "f1": 1.0,
+     "fn": 0,
+     "fp": 0,
+     "precision": 1.0,
+     "precision_hi": 1.0,
+     "precision_lo": 0.4385029682449546,
+     "recall": 1.0,
+     "recall_hi": 1.0,
+     "recall_lo": 0.4385029682449546,
+     "tp": 3
+    },
+    "implied_multiple": {
+     "f1": 1.0,
+     "fn": 0,
+     "fp": 0,
+     "precision": 1.0,
+     "precision_hi": 1.0,
+     "precision_lo": 0.4385029682449546,
+     "recall": 1.0,
+     "recall_hi": 1.0,
+     "recall_lo": 0.4385029682449546,
+     "tp": 3
+    },
+    "offer_price": {
+     "f1": 0.8666666666666666,
+     "fn": 0,
+     "fp": 4,
+     "precision": 0.7647058823529411,
+     "precision_hi": 0.9044495567791988,
+     "precision_lo": 0.5273820188043501,
+     "recall": 1.0,
+     "recall_hi": 0.9999999999999999,
+     "recall_lo": 0.7719046276458016,
+     "tp": 13
+    },
+    "terminal_growth": {
+     "f1": 0.9056603773584906,
+     "fn": 5,
+     "fp": 0,
+     "precision": 1.0,
+     "precision_hi": 1.0,
+     "precision_lo": 0.8620237953250198,
+     "recall": 0.8275862068965517,
+     "recall_hi": 0.9240214274710877,
+     "recall_lo": 0.6545156010980476,
+     "tp": 24
+    },
+    "value_per_share": {
+     "f1": 0.8448275862068966,
+     "fn": 4,
+     "fp": 14,
+     "precision": 0.7777777777777778,
+     "precision_hi": 0.8627499224738635,
+     "precision_lo": 0.6608771888656633,
+     "recall": 0.9245283018867925,
+     "recall_hi": 0.9702604449130533,
+     "recall_lo": 0.8214152251634678,
+     "tp": 49
+    }
+   },
+   "by_group": {
+    "advisor": {
+     "Barclays": {
+      "f1": 0.8571428571428571,
+      "fn": 3,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.7008549515804559,
+      "recall": 0.75,
+      "recall_hi": 0.9110583316059453,
+      "recall_lo": 0.46769466506643426,
+      "tp": 9
+     },
+     "BofA Securities": {
+      "f1": 0.9600000000000001,
+      "fn": 2,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.8620237953250198,
+      "recall": 0.9230769230769231,
+      "recall_hi": 0.9786449115277238,
+      "recall_lo": 0.7585844622837095,
+      "tp": 24
+     },
+     "Centerview": {
+      "f1": 0.6666666666666666,
+      "fn": 1,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.20654931437723745,
+      "recall": 0.5,
+      "recall_hi": 0.9054687942657693,
+      "recall_lo": 0.09453120573423074,
+      "tp": 1
+     },
+     "Citi": {
+      "f1": 0.9666666666666666,
+      "fn": 2,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.8830302015002593,
+      "recall": 0.9354838709677419,
+      "recall_hi": 0.9821252164780854,
+      "recall_lo": 0.7928136326370188,
+      "tp": 29
+     },
+     "Evercore": {
+      "f1": 0.9473684210526316,
+      "fn": 2,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.8241207763533425,
+      "recall": 0.9,
+      "recall_hi": 0.9721335187862319,
+      "recall_lo": 0.6989663547715128,
+      "tp": 18
+     },
+     "Goldman Sachs": {
+      "f1": 0.9393939393939393,
+      "fn": 4,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.889744604539564,
+      "recall": 0.8857142857142857,
+      "recall_hi": 0.9546482066690264,
+      "recall_lo": 0.7404853135378618,
+      "tp": 31
+     },
+     "J.P. Morgan": {
+      "f1": 0.8717948717948718,
+      "fn": 4,
+      "fp": 1,
+      "precision": 0.9444444444444444,
+      "precision_hi": 0.990124809021697,
+      "precision_lo": 0.7424269921812741,
+      "recall": 0.8095238095238095,
+      "recall_hi": 0.9233243494723822,
+      "recall_lo": 0.5999943530979508,
+      "tp": 17
+     },
+     "Jefferies": {
+      "f1": 1.0,
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.34238022750665303,
+      "recall": 1.0,
+      "recall_hi": 1.0,
+      "recall_lo": 0.34238022750665303,
+      "tp": 2
+     },
+     "KBW": {
+      "f1": 0.9600000000000001,
+      "fn": 2,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.8620237953250198,
+      "recall": 0.9230769230769231,
+      "recall_hi": 0.9786449115277238,
+      "recall_lo": 0.7585844622837095,
+      "tp": 24
+     },
+     "Morgan Stanley": {
+      "f1": 0.9714285714285714,
+      "fn": 1,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.8156818649911483,
+      "recall": 0.9444444444444444,
+      "recall_hi": 0.990124809021697,
+      "recall_lo": 0.7424269921812741,
+      "tp": 17
+     }
+    },
+    "era": {
+     "2012-2014": {
+      "f1": 0.9056603773584906,
+      "fn": 5,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.8620237953250198,
+      "recall": 0.8275862068965517,
+      "recall_hi": 0.9240214274710877,
+      "recall_lo": 0.6545156010980476,
+      "tp": 24
+     },
+     "2015-2017": {
+      "f1": 0.9500000000000001,
+      "fn": 6,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 0.9999999999999998,
+      "precision_lo": 0.9368611651470209,
+      "recall": 0.9047619047619048,
+      "recall_hi": 0.955616515723108,
+      "recall_lo": 0.8073829893716311,
+      "tp": 57
+     },
+     "2018-2020": {
+      "f1": 1.0,
+      "fn": 0,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 1.0,
+      "precision_lo": 0.9244423958360037,
+      "recall": 1.0,
+      "recall_hi": 1.0,
+      "recall_lo": 0.9244423958360037,
+      "tp": 47
+     },
+     "2021-2022": {
+      "f1": 0.8750000000000001,
+      "fn": 8,
+      "fp": 0,
+      "precision": 1.0,
+      "precision_hi": 0.9999999999999998,
+      "precision_lo": 0.8793566952341543,
+      "recall": 0.7777777777777778,
+      "recall_hi": 0.8828366802420353,
+      "recall_lo": 0.6191529705388181,
+      "tp": 28
+     },
+     "2023-2025": {
+      "f1": 0.9142857142857143,
+      "fn": 2,
+      "fp": 1,
+      "precision": 0.9411764705882353,
+      "precision_hi": 0.9895395990150025,
+      "precision_lo": 0.7301796936242461,
+      "recall": 0.8888888888888888,
+      "recall_hi": 0.9689804773543876,
+      "recall_lo": 0.672002348698212,
+      "tp": 16
+     }
+    }
+   },
+   "key_fields": {
+    "f1": 0.9398907103825136,
+    "fn": 21,
+    "fp": 1,
+    "precision": 0.9942196531791907,
+    "precision_hi": 0.9989788970587502,
+    "precision_lo": 0.9679889233853399,
+    "recall": 0.8911917098445595,
+    "recall_hi": 0.9277239310083457,
+    "recall_lo": 0.8393908877125832,
+    "tp": 172
+   },
+   "key_fields_precision_filing_bootstrap_95": [
+    0.977434999713023,
+    1.0
+   ],
+   "n_extra": 27,
+   "n_filings": 30,
+   "n_gold": 340,
+   "n_missed": 61,
+   "n_predicted": 306,
+   "overall": {
+    "f1": 0.8637770897832817,
+    "fn": 61,
+    "fp": 27,
+    "precision": 0.9117647058823529,
+    "precision_hi": 0.9386516294719511,
+    "precision_lo": 0.8746675465968425,
+    "recall": 0.8205882352941176,
+    "recall_hi": 0.8577205967651482,
+    "recall_lo": 0.7762925345997995,
+    "tp": 279
+   },
+   "split": "holdout"
+  },
+  "holdout_frozen_digest": "60e1979903c41f9c4c2d66c6c45484d2dcf1c4f2c247f08b27320ac0597543d9"
+ },
+ "seed": 20261004,
+ "versions": {
+  "fairness_ledger": "0.1.0",
+  "matplotlib": "3.11.2",
+  "numpy": "2.5.3",
+  "pandas": "3.0.6",
+  "pyarrow": "25.0.1",
+  "python": "3.12.14",
+  "rich": "15.0.0",
+  "scipy": "1.18.1"
+ }
+}
