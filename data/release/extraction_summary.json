@@ -1,0 +1,27 @@
+{
+  "facts_by_field": {
+    "discount_rate": 9122,
+    "exit_multiple": 3416,
+    "fee_contingent": 672,
+    "fee_opinion": 1858,
+    "fee_total": 3492,
+    "implied_growth": 126,
+    "implied_multiple": 137,
+    "offer_price": 1413,
+    "terminal_growth": 2329,
+    "value_per_share": 6677
+  },
+  "n_deals": 2925,
+  "n_facts": 29242,
+  "n_filings": 2967,
+  "rejections_by_reason": {
+    "no_analysis_marker": 333,
+    "not_dcf_analysis": 5354,
+    "outside_analysis_context": 1416,
+    "outside_hard_bounds": 367,
+    "provenance:snippet_too_long": 3,
+    "provenance:value_not_reproduced_from_span": 91,
+    "reversed_range": 81,
+    "table_row": 226
+  }
+}
