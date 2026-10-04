@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "fairness-ledger: An open, provenance-linked dataset and extractor of the valuation work investment banks disclose in U.S. merger proxies"
+authors:
+  - family-names: Majores
+    given-names: Alexander
+repository-code: "https://github.com/Thesimpleex/fairness-ledger"
+license: MIT
+version: 0.1.0
+date-released: "2026-10-04"

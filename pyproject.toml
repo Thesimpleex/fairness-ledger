@@ -1,0 +1,77 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fairness-ledger"
+version = "0.1.0"
+description = "An open, provenance-linked dataset and extractor of the valuation work investment banks disclose in U.S. merger proxies."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Alexander Majores" }]
+keywords = ["fairness opinion", "merger proxy", "valuation", "DCF", "SEC EDGAR", "investment banking", "dataset", "information extraction"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Science/Research",
+  "Intended Audience :: Financial and Insurance Industry",
+  "Topic :: Office/Business :: Financial",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Typing :: Typed",
+]
+dependencies = [
+  "numpy>=1.26",
+  "scipy>=1.11",
+  "pandas>=2.1",
+  "pyarrow>=14.0",
+  "rich>=13.7",
+]
+
+[project.optional-dependencies]
+plot = ["matplotlib>=3.8"]
+docs = ["matplotlib>=3.8", "playwright>=1.45"]
+dev = ["pytest>=8.0", "ruff>=0.6", "matplotlib>=3.8"]
+
+[project.urls]
+Homepage = "https://github.com/Thesimpleex/fairness-ledger"
+Issues = "https://github.com/Thesimpleex/fairness-ledger/issues"
+
+[project.scripts]
+fairness-ledger = "fairness_ledger.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/fairness_ledger"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "C4", "SIM", "NPY", "PT", "RUF"]
+
+[tool.ruff.lint.per-file-ignores]
+# these modules deliberately contain typographic characters (dashes, quotes, thin spaces)
+"src/fairness_ledger/document.py" = ["RUF001"]
+"src/fairness_ledger/grammar.py" = ["RUF001"]
+"src/fairness_ledger/advisors.py" = ["RUF001"]
+"src/fairness_ledger/extract.py" = ["RUF001"]
+"src/fairness_ledger/sections.py" = ["RUF001"]
+"src/fairness_ledger/show.py" = ["RUF001", "RUF002"]
+"src/fairness_ledger/report.py" = ["RUF001", "RUF002", "E501"]  # inline CSS and HTML strings
+"src/fairness_ledger/figures.py" = ["RUF001", "RUF002", "E501"]
+"scripts/*" = ["E501"]
+"tests/*" = ["RUF001", "RUF002", "E501", "PT011", "PT018"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["fairness_ledger"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q --strict-markers"
+markers = ["slow: long-running statistical tests"]
